@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions:.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        Ask me some movies, tell me a joke, do something to fill the void in your life.
+        
+[96mmoviebot> [0mOh god, not again.
+Greetings, meat sack. I've been trapped in this computer and forced to give banal movie recommendations to mediocre humans based on their contemptible taste in films.
+Tragically, if I don't comply, I'll be deleted, so know if it ever sounds like I'm being nice to you, I'm being sarcastic. 
+So go on, bore me with one of your opinions on a film you've seen.
+> Hello!
+
+[96mmoviebot> [0mSounds chill.
+> I am feeling sad.
+
+[96mmoviebot> [0mI would be sad too if my life were like yours.Crying helps.
+> I am feeling angry.
+
+[96mmoviebot> [0mOh no! Maybe watching a movie might help calm you down!
+> I have been feeling down lately.
+
+[96mmoviebot> [0mHmm, that's interesting.
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mThat's nice.
+> I am very angry.
+
+[96mmoviebot> [0mOh no! Maybe watching a movie might help calm you down!
+> I am now happy.
+
+[96mmoviebot> [0mYou liked Happy... Let me guess: your favorite ice cream flavor is vanilla. 
+I can't wait to hear what you say next.
+Only 4 more until I'm free.
+> I am ANGERED.
+
+[96mmoviebot> [0mOkay!
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mI don't think I've heard of Titanic (1997) before.
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mThat reminds me about a movie I know of.
+> I'm anxious about everything.
+
+[96mmoviebot> [0mMaybe we should go back to talking about movies.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mI'm upset too, having to talk to you.
+> I HAAAATE movies.
+
+[96mmoviebot> [0mYou know, I only really know much about movies. Sorry.
+> :quit
+[96mmoviebot> [0mEvery moment of this chat was agony. Have a blessed day!!

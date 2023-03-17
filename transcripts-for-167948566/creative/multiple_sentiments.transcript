@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Greetings Muggle! I'm Draco Malfoy. I'm here with my house elves waiting to search 
+        the Hogwarts library and my Father's private collection for some movies to watch based
+        on your preferences. Give me info on your favorite (or not so
+        favorite) movies and I'll give you the recommendations that my house elves find. If
+        the movie doesn't pop up when you type it then you have failed Muggle, try putting it in quotes
+        to see if I can understand you better. 
+        
+        
+[96mmovie_recommend_chatbot> [0mWelcome muggle! Let's try to make some movie magic!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mmovie_recommend_chatbot> [0mA muggle that does not like "Titanic (1997)" and "Ex Machina". I guess there is a first for everything. Maybe you do have some taste...
+> I liked "Zootopia" but not "Scream".
+
+[96mmovie_recommend_chatbot> [0mOf course a muggle like you would enjoy "Zootopia" and "Scream". Maybe something original?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mmovie_recommend_chatbot> [0mFrom what you have told me, the house elves think you would like "Rookie of the Year (1993)". Maybe another for your binge?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mmovie_recommend_chatbot> [0mWell which one is it muggle, another or not!
+> :quit
+[96mmovie_recommend_chatbot> [0mFarewell Muggle! Hope you enjoy your movies.

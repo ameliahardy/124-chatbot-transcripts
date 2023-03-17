@@ -1,0 +1,64 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Hello! I will recommend a movie for you that I think you'll like! To get started, tell me about some movies that you've seen!
+[96mJILF_bot> [0mHello. My name is JILF. I'll help you pick a movie today. If you ever want to leave, just type :quit 
+ But now, let's find a movie for you. To do so, tell me about movies and TV shows you have seen before and whether you liked them. 
+ Make sure to put the movie name between quotes. For example, you could say: I hated "Titanic" 
+ Oh, and lastly, just one movie please. Don't say: I loved "Titanic" and "Avatar"
+> I liked "Titanic (1997)"
+
+[96mJILF_bot> [0mI understand that you liked "Titanic (1997)"! What are some other movies you've seen?
+> I hated "Zootopia"
+
+[96mJILF_bot> [0mThank you for telling me you disliked "Zootopia"! Tell me about more movies you've watched! At least 5 so that I can make a recommendation!
+> I liked "Tangled Ever After"
+
+[96mJILF_bot> [0mThank you for telling me you liked "Tangled Ever After"! Tell me about more movies you've watched! At least 5 so that I can make a recommendation!
+> I hated "Sleeping Beauty"
+
+[96mJILF_bot> [0mI understand that you disliked "Sleeping Beauty"! What are some other movies you've seen?
+> I liked "Mulan"
+
+The movies you have told me about are enough for me to make a recommendation.
+Generating your recommendation, please standby... (sorry for the wait!)
+[96mJILF_bot> [0mBased on movies you've seen, you'd probably like "The Ridiculous 6 (2015)"! Would you like another recommendation? Type 'yes' or 'no'! (':quit' to exit the program)
+Or you could also keep telling me about more movies so that I can recommend another!
+> yes
+
+Generating your recommendation, please standby... (this can take a minute)
+[96mJILF_bot> [0mI recommend watching "Pixels (2015)" Would you like another one? Type 'yes' or 'no' (':quit' to exit the program)
+ Feel free to tell me about another movie and I'll give you another recommendation if you do!
+> yes
+
+Generating your recommendation, please standby... (this can take a minute)
+[96mJILF_bot> [0mI recommend watching "World War Z (2013)" Would you like another one? Type 'yes' or 'no' (':quit' to exit the program)
+ Feel free to tell me about another movie and I'll give you another recommendation if you do!
+> yes
+
+Generating your recommendation, please standby... (this can take a minute)
+[96mJILF_bot> [0mI recommend watching "Karate Kid, The (2010)" Would you like another one? Type 'yes' or 'no' (':quit' to exit the program)
+ Feel free to tell me about another movie and I'll give you another recommendation if you do!
+> y
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> y
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> Yes!
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> yeah
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> no
+
+[96mJILF_bot> [0mThank you for allowing me to help you pick a movie to watch! (':quit' to exit the program)
+> nah
+
+[96mJILF_bot> [0mPlease tell me a movie that you have seen! 
+Please put quotations around the title! (ex. "Move Title")
+> :quit
+[96mJILF_bot> [0mIt was an honor to be of service. Enjoy the movie!

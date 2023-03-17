@@ -1,0 +1,52 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Bert is a movie recommender bot who can give you movie recommendations based on your personal taste. After you 
+        talk about 5 movies (at minimum), Bert will start giving you movie recommendations. 
+        Make sure to include the title of the movie in quotes. If you need to correct Bert's evaluation of your opinion of
+        a movie, you can do so. 
+        
+[96mBert> [0mHey there, I'm Bert, a movies recommender bot. Tell me about a movie, and once I feel like I have a solid of understanding of your taste in movies, I'll try my best to recommend you movies you'd like. If I misunderstand anything, feel free to correct me. Also, please include the title of the movie in quotation marks.
+> I liked "Titanic (1997)"
+
+[96mBert> [0mI see that you like Titanic (1997). Please tell me about another movie you've seen.
+> I hated "Zootopia"
+
+[96mBert> [0mOh, so you didn't like Zootopia? Tell me about more movies, then.
+> I liked "Tangled Ever After"
+
+[96mBert> [0mI also think Tangled Ever After is a good movie. Can you talk about more movies you like, or perhaps movies you dislike?
+> I hated "Sleeping Beauty"
+
+[96mBert> [0mSleeping Beauty wasn't a good movie, was it? What's your opinion on a different movie?
+> I liked "Mulan"
+
+[96mBert> [0mThe Ridiculous 6 (2015) seems like a good fit for you. Would you like to hear another recommendation? Type ':quit' to quit
+> yes
+
+[96mBert> [0mI think you'd like Pixels (2015). Would you like more recommendations? If you'd like to say goodbye, type ':quit'.
+> yes
+
+[96mBert> [0mI think you'd like World War Z (2013). Would you like more recommendations? If you'd like to say goodbye, type ':quit'.
+> yes
+
+[96mBert> [0mI believe you'd enjoy Karate Kid, The (2010). Would you like another recommendation? Otherwise, type ':quit' to quit.
+> y
+
+[96mBert> [0mI hope you enjoy my recommendations. You can type ':quit' to exit. Goodbye!
+> y
+
+[96mBert> [0mI hope you enjoy my recommendations. You can type ':quit' to exit. Goodbye!
+> Yes!
+
+[96mBert> [0mI think you'd like Not Another Teen Movie (2001). Would you like more recommendations? If you'd like to say goodbye, type ':quit'.
+> yeah
+
+[96mBert> [0mDamage (Fatale) (1992) seems like a good fit for you. Would you like to hear another recommendation? Type ':quit' to quit
+> no
+
+[96mBert> [0mI hope you enjoy my recommendations. You can type ':quit' to exit. Goodbye!
+> nah
+
+[96mBert> [0mI hope you enjoy my recommendations. You can type ':quit' to exit. Goodbye!
+> :quit
+[96mBert> [0mBye! I hope you enjoy watching whatever movie you end up choosing!

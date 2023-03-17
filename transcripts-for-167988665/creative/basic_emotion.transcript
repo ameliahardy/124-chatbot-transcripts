@@ -1,0 +1,66 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mH-hewwo! It's Chatty here, and I'd love to like, suggest a movie for you, nya~! B-before we get started though, could you t-tell me a little bit about your movie preferences? Maybe, umm, you could tell me about a movie you've seen before, owo? Then I can like, recommend something that I think you'll really enjoy, heheh~!
+> Hello!
+
+[25, 2279, 2365, 5134]
+[4778, 8736, 9076]
+[96mmoviebot> [0mAww, hehe! I'm sorry to bother you, but it looks like there's more than one movie with the title "Hello" in my database, owo! Could you maybe specify which movie you're talking about, nya? 
+ 
+ Include one of these: [Hello, Dolly! (1969), Hello Ladies: The Movie (2014), Hello, My Name Is Doris (2016),]^_^
+> I am feeling sad.
+
+[]
+[96mmoviebot> [0mUm, p-please don't be mad at me, but did you maybe misspell the movie title, nya? Could you please try again, hehe?
+> I am feeling angry.
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "I am feeling angry" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> I have been feeling down lately.
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "I have been feeling down lately" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I'm so glad that I finished my exams.
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "Im so glad that I finished my exams" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I am very angry.
+
+[]
+[96mmoviebot> [0mUm, p-please don't be mad at me, but did you maybe misspell the movie title, nya? Could you please try again, hehe?
+> I am now happy.
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "I am now happy" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> I am ANGERED.
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "I am ANGERED" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> "Titanic (1997)" makes me afraid of ice.
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "Titanic (1997) makes me afraid of ice" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> I am VERY FRUSTRATED with this chatbot.
+
+[]
+[96mmoviebot> [0mOh! Did I make you angwy? I apowogize. OwO
+> I'm anxious about everything.
+
+[]
+[96mmoviebot> [0mI'm sowwy to heaw dat you'we feeling afwaid... pwease don't be afwaid! I'm hewe for you! OwO
+> Colorless green ideas sleep FURIOUSLY.
+
+[]
+[96mmoviebot> [0mNo way, I've never heard of "Colorless green ideas sleep FURIOUSLY" before! I'm sorry, but I don't think I can recommend anything for that movie, nya. Maybe you could tell me about another movie you've watched, owo?
+> I HAAAATE movies.
+
+[]
+[96mmoviebot> [0mOh no, I'm sorry, but I didn't quite understand. It seems like "I HAAAATE movies" isn't in my movie database, nya. Could you try again or suggest a different movie, owo?
+> :quit
+[96mmoviebot> [0mO-oh my goodness, thank you so much for spending time with me, nya~! It was so much fun chatting with you, and I hope we can like, stay in touch and chat some more soon, owo! Goodbye for now, and take care!

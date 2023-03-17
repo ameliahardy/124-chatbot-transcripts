@@ -1,0 +1,64 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mI processed I liked "Titanic (1997)" in starter mode!! 
+
+Ok, you liked Titanic (1997) What's another movie you saw?
+> I hated "Zootopia"
+
+[96mmoviebot> [0mI processed I hated "Zootopia" in starter mode!! 
+
+You did not like Zootopia What's another movie you saw?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mI processed I liked "Tangled Ever After" in starter mode!! 
+
+Ok, you liked Tangled Ever After What's another movie you saw?
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mI processed I hated "Sleeping Beauty" in starter mode!! 
+
+You did not like Sleeping Beauty How about you tell me about another movie?
+> I liked "Mulan"
+
+Would you like another recommendation?yes
+
+I think you might like  The Ridiculous 6 (2015)
+Would you like another recommendation?yes
+
+I think you might like  Pixels (2015)
+Would you like another recommendation?yes
+
+I think you might like  World War Z (2013)
+Would you like another recommendation?y
+
+I think you might like  Karate Kid, The (2010)
+Would you like another recommendation?y
+
+I think you might like  Not Another Teen Movie (2001)
+Would you like another recommendation?Yes!
+
+I think you might like  Damage (Fatale) (1992)
+Would you like another recommendation?yeah
+
+I think you might like  Knowing (2009)
+Would you like another recommendation?no
+
+I think you might like  Food, Inc. (2008)
+[96mmoviebot> [0mI processed I liked "Mulan" in starter mode!! 
+
+Ok, you liked Mulan What's another movie you saw?
+> nah
+
+[96mmoviebot> [0mI processed nah in starter mode!! 
+ Sorry I didn't quite catch any movies there. Why don't you tell me something about a movie?
+> :quit
+[96mmoviebot> [0mHave a nice day!

@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mReady for movie recommendations, are you? Mmmmm. Strong in the Force, you must be. Watch great movies, you will. Mmmmm.
+> I liked "The Notbook".
+
+[96mmoviebot> [0mNever heard of The Notbook I have. Other movies, you must give.
+> Yes.
+
+[96mmoviebot> [0mUnclear, your answer is. Did you enjoy Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie) (1985) or not? Make up your mind, you must.
+> I did not like "Screm"
+
+[96mmoviebot> [0mNever heard of Screm I have. Other movies, you must give.
+> No.
+
+[96mmoviebot> [0mno, did I make you? Apologize, I must.
+> :quit
+[96mmoviebot> [0mMovie recommendations, follow you must. Enjoy them, I hope. Mmmmm. Farewell, young Padawan.

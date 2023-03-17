@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mHello, may the Force be with you. Find you a great movie, we shall.
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mYodaFlix> [0mProcess more than one movie, I cannot. Only one, include you must, young Padawan.
+> I liked "Zootopia" but not "Scream".
+
+[96mYodaFlix> [0mProcess more than one movie, I cannot. Only one, include you must, young Padawan.
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mYodaFlix> [0mMore than one movie, you have included. Process them all, I cannot. Only one, please include.
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mYodaFlix> [0mMore than one movie, you have included. Process them all, I cannot. Only one, please include.
+> :quit
+[96mYodaFlix> [0mUntil next time, movie lover. Happy viewing, may you be.

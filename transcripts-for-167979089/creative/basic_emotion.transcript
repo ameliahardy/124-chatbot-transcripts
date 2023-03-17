@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mWelcome, welcome, my young friend. Recommend movies, I can. Hmmmm.
+> Hello!
+
+[96mmoviebot> [0mMore than one hello there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)?
+> I am feeling sad.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I am feeling angry.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I have been feeling down lately.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I am very angry.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I am now happy.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> I am ANGERED.
+
+[96mmoviebot> [0mNone movie of that kind there is. Meant you Hello, Dolly! (1969) or Hello, My Name Is Doris (2016)
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mConfused, I am. Your thoughts on Titanic (1997) are muddled. Help me understand, you must. Did you like it, or did you not?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mPatience, we must have. Return to the topic of movies, we shall.
+> I'm anxious about everything.
+
+[96mmoviebot> [0mMovies, the topic at hand is. Return to it, we must.
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mThe movies, let us not forget. Return to this topic, we must.
+> I HAAAATE movies.
+
+[96mmoviebot> [0mMovies, our main focus should be. Return to them, we must.
+> :quit
+[96mmoviebot> [0mJourney into the world of cinema, embark you have. Learn from movies, you will. Mmmmm. Farewell, young Padawan.

@@ -1,0 +1,65 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Ladies and gentlemen, may I introduce you to our humble chatbot that specializes in the art of recommending the finest cinematic productions. Hailing from the land of afternoon tea, rainy days, and well-mannered conversations, this chatbot possesses a refined taste in movies that is sure to impress even the most discerning of movie-goers. With its vast knowledge of British and international cinema, it stands ready to assist you in finding the perfect movie for any occasion. So sit back, relax, and let our dear chatbot guide you through the wonderful world of movies. Cheers!
+[96mBot> [0mHi! I'm MovieBot! Here to help! Tell me about some movies you've seen or would like to see.
+> I liked "Titanic (1997)"
+
+[96mBot> [0mFantastic, gather your mates next time you watch Titanic (1997).
+
+> I hated "Zootopia"
+
+[96mBot> [0mThat's a shame, old chap. Sorry you didn't appreciate Zootopia (2016).
+
+> I liked "Tangled Ever After"
+
+[96mBot> [0mFantastic, gather your mates next time you watch Tangled Ever After (2012).
+
+> I hated "Sleeping Beauty"
+
+[96mBot> [0mThat's a shame, old chap. Sorry you didn't appreciate Sleeping Beauty (1959).
+
+> I liked "Mulan"
+
+Do you want a recommendation now?
+yes
+
+I recommend this for you lad: World War Z (2013).
+
+Do you want a recommendation now?
+yes
+
+You should check out Not Another Teen Movie (2001).
+
+With your help, I have enough information to make a recommendation. Would like to hear one?
+yes
+
+I recommend this for you lad: The Ridiculous 6 (2015).
+
+With your help, I have enough information to make a recommendation. Would like to hear one?
+y
+
+Thanks mate, here's what I suggest: The Purge: Election Year (2016).
+
+How about I make a recommendation, do you want one?
+y
+
+Thanks mate, here's what I suggest: Damage (Fatale) (1992).
+
+With your help, I have enough information to make a recommendation. Would like to hear one?
+Yes!
+
+Sorry chap, I couldn't find the movie 
+With your help, I have enough information to make a recommendation. Would like to hear one?
+yeah
+
+Thanks mate, here's what I suggest: Food, Inc. (2008).
+
+Do you want a recommendation now?
+no
+
+[96mBot> [0mFantastic, gather your mates next time you watch Mulan (1998).
+Thanks for telling me about what you thought!
+> nah
+
+[96mBot> [0mSorry chap, I couldn't find the movie 
+> :quit
+[96mBot> [0mHave a good one. Hope to see you soon!

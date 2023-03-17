@@ -1,0 +1,68 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+This is a movie chat bot that will reccomend movies to you. Movie names must be enclosed in quotations and please include sentiment
+[96mmoviebot> [0mHow can I be of assistance?
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mIn fact I was able to find one movie 'Titanic (1997)'
+I can tell you liked 'Titanic (1997)'
+> I hated "Zootopia"
+
+[96mmoviebot> [0mI found this movie: 'Zootopia (2016)'
+I like that you didn't like 'Zootopia (2016)'
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mI found one movie 'Tangled Ever After (2012)'
+I can tell you liked 'Tangled Ever After (2012)'
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mIn fact I was able to find one movie 'Sleeping Beauty (1959)'
+I figured out that you didn't like 'Sleeping Beauty (1959)'
+> I liked "Mulan"
+
+[96mmoviebot> [0mIn fact I was able to find one movie 'Mulan (1998)'
+I figured out that you liked 'Mulan (1998)'
+ I think you would enjoy this movie 'The Ridiculous 6 (2015)'
+ Would you like another suggestion?
+> yes
+
+[96mmoviebot> [0m
+ I think you should watch this movie 'Pixels (2015)'
+ Would you like another recommendation?
+> yes
+
+[96mmoviebot> [0m
+ I think you would like this movie 'World War Z (2013)'
+ Would you like another recommendation?
+> yes
+
+[96mmoviebot> [0m
+ I think you would like this movie 'Karate Kid, The (2010)'
+ Would you like another movie recommendation?
+> y
+
+[96mmoviebot> [0m
+ I think you would enjoy this movie 'Not Another Teen Movie (2001)'
+ Would you like another movie?
+> y
+
+[96mmoviebot> [0m
+ I think you should watch this movie 'Damage (Fatale) (1992)'
+ Would you like another movie recommendation?
+> Yes!
+
+[96mmoviebot> [0m
+ I think you should watch this movie 'Knowing (2009)'
+ Would you like another movie recommendation?
+> yeah
+
+[96mmoviebot> [0m
+ I think you would like this movie 'Food, Inc. (2008)'
+ Would you like another suggestion?
+> no
+
+[96mmoviebot> [0mEnter ':quit' to fully quit
+> nah
+
+[96mmoviebot> [0mEnter ':quit' to fully quit
+> :quit
+[96mmoviebot> [0mHave a nice day

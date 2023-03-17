@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mHello there, Yodaflix welcomes you. In your quest for the perfect movie, assist you, I will.
+> I liked "Titanic (1997)"
+
+[96mYodaFlix> [0mHmm, you fancied "Titanic (1997)". Another movie, I must hear about
+> I hated "Zootopia"
+
+[96mYodaFlix> [0mdisfavored "Zootopia" you say. Movies I need to learn your preferences of, more of them
+> I liked "Tangled Ever After"
+
+[96mYodaFlix> [0mA different movie, you must teach me of, if you truly liked "Tangled Ever After"
+> I hated "Sleeping Beauty"
+
+[96mYodaFlix> [0mdisfavored "Sleeping Beauty", you did. About another movie, tell me.
+> I liked "Mulan"
+
+[96mYodaFlix> [0mHmm, liked you say about "Mulan". A recommendation, would you like?
+> yes
+
+[96mYodaFlix> [0mI recommend "The Ridiculous 6 (2015)". Would you like another recommendation?
+> yes
+
+[96mYodaFlix> [0mI recommend "Pixels (2015)". Would you like another recommendation?
+> yes
+
+[96mYodaFlix> [0mI recommend "World War Z (2013)". Would you like another recommendation?
+> y
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> y
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> Yes!
+
+[96mYodaFlix> [0mI wasn't sure if that was a yes or a no. Would you like a movie recommendation?
+> yeah
+
+[96mYodaFlix> [0mI recommend "Karate Kid, The (2010)". Would you like another recommendation?
+> no
+
+[96mYodaFlix> [0mOkay! Tell me about another movie.
+> nah
+
+[96mYodaFlix> [0mNot want to talk about that, I do. Back to movies, can we get?
+> :quit
+[96mYodaFlix> [0mGoodbye for now, movie enthusiast. May the force guide you in finding films that bring you great joy.

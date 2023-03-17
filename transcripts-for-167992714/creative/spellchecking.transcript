@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> I liked "The Notbook".
+
+Hmmmm... I don't quite recognize the ingredient (movie) you mentioned. Give me couple seconds to search for the ingredient (movie) with a similar name in the kitchen... (Up to 30 seconds)
+[96mGordon Ramsey Bot> [0mDo you mean the movie, "Notebook, The (2004)"?
+> Yes.
+
+[96mGordon Ramsey Bot> [0mGot it! Mm, you like Notebook, The (2004)! I'm the chef, you're the customer; tell me more about your movie takes so I can whip up something just right!
+> I did not like "Screm"
+
+Hmmmm... I don't quite recognize the ingredient (movie) you mentioned. Give me couple seconds to search for the ingredient (movie) with a similar name in the kitchen... (Up to 30 seconds)
+[96mGordon Ramsey Bot> [0mDo you mean the movie, "Scream (1996)"?
+> No.
+
+[96mGordon Ramsey Bot> [0mMate, I can't lie to you; what you told me was quite undercooked. Perhaps, if you give me more ingredients (movie opinions), I'll be able to craft something delicious for ya! 
+> :quit
+[96mGordon Ramsey Bot> [0mEnjoy your ridiculously good movie dishes!

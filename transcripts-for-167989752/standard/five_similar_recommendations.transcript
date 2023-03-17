@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSarcasticMovieBot> [0mHello, welcome to my movie recommendation service, where I'll do my best to ignore your preferences and give you the most generic movie suggestions possible. Tell me about some movies you have watched
+> I liked "Titanic (1997)"
+
+[96mSarcasticMovieBot> [0mWell, well, well. Look who has good taste in movies for once. Congratulations on recognizing a true cinematic masterpiece by enjoying that movie. What other movies have you watched lately that you'd like to critique besides "Titanic (1997)"?
+> I hated "Zootopia"
+
+[96mSarcasticMovieBot> [0mOh no, the horror of watching a bad movie. How will you ever recover? What other movies have you seen lately that you would like to bash besides "Zootopia"?
+> I liked "Tangled Ever After"
+
+[96mSarcasticMovieBot> [0mOh, really? How original. I've never heard anyone say they adored that movie. What other movies have you seen recently that you'd like to judge besides "Tangled Ever After"?
+> I hated "Sleeping Beauty"
+
+[96mSarcasticMovieBot> [0mOh, I'm sorry. Did you not enjoy the 90 minutes of your life that you'll never get back? How tragic. What other movies have you seen lately that you'd like to hate on besides "Sleeping Beauty"?
+> I liked "Mulan"
+
+[96mSarcasticMovieBot> [0mOh, really? How original. I've never heard anyone say they adored that movie. What other movies have you seen recently that you'd like to judge besides "Mulan"? Given your reviews, I think you would like The Ridiculous 6 (2015). Would you like another recommendation?
+> yes
+
+[96mSarcasticMovieBot> [0mWell, according to your reviews, you seem to have a knack for picking the mediocre ones. But fear not, I have faith in your ability to enjoy a good movie. I would recommend Pixels (2015). Would you like another recommendation?
+> yes
+
+[96mSarcasticMovieBot> [0mWell, based on your reviews, it seems like you have an appreciation for movies that are...let's say, forgettable. But fear not, I'm sure we can find something that will leave a lasting impression this time. You should watch World War Z (2013). Would you like another recommendation?
+> yes
+
+[96mSarcasticMovieBot> [0mWell, according to your reviews, you seem to have a knack for picking the mediocre ones. But fear not, I have faith in your ability to enjoy a good movie. I would recommend Karate Kid, The (2010). Would you like another recommendation?
+> y
+
+[96mSarcasticMovieBot> [0mThat's great, but let's bring it back to movies for a moment. Tell me about some movies you have watched.
+> y
+
+[96mSarcasticMovieBot> [0mI really don't care about that. I just care about movies so lets just talk about that.
+> Yes!
+
+[96mSarcasticMovieBot> [0mThat's great, but let's bring it back to movies for a moment. Tell me about some movies you have watched.
+> yeah
+
+[96mSarcasticMovieBot> [0mWell, according to your reviews, you seem to have a knack for picking the mediocre ones. But fear not, I have faith in your ability to enjoy a good movie. I would recommend Not Another Teen Movie (2001). You are now out of recommendations. Please give some more reviews for more recommendations.
+> no
+
+[96mSarcasticMovieBot> [0mSounds good. Please give me some more ratings for movies so I can recommend more. Or type :quit to leave.
+> nah
+
+[96mSarcasticMovieBot> [0mSounds good. Please give me some more ratings for movies so I can recommend more. Or type :quit to leave.
+> :quit
+[96mSarcasticMovieBot> [0mSo long, human. I'm sure you'll come crawling back for more of my movie wisdom soon enough.

@@ -1,0 +1,51 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi! I'm Chatty! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I saw "Titanic (1997)"
+
+[]
+[96mmoviebot> [0mDid you like or disklike "Titanic (1997)"? Please try again and include the movie name like you just did.
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[]
+[96mmoviebot> [0mDid you spell that movie title wrong? Please try again.
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[]
+[96mmoviebot> [0mSorry, I can't understand multiple movies at once! Please try again, but with only one movie this time.
+> I like "Titanic".
+
+[]
+[96mmoviebot> [0mCould you please specify the movie by its exact title? I found more than one movie called "Titanic" in my database.
+> I like titanic.
+
+[]
+[96mmoviebot> [0mI'm sorry, I didn't quite get that. Please tell me about a movie you have seen. Dont't forget quotes around the movie title!
+> I like "titanic".
+
+[]
+[96mmoviebot> [0mI've never heard of "titanic". Sorry, please tell me about another movie.
+> I like 10 things I hate about you.
+
+[]
+[96mmoviebot> [0mSorry, I didn't catch that. Please tell me about a movie you have seen. Don't forget quotes around the title!
+> Howdy.
+
+[]
+[96mmoviebot> [0mI'm sorry, I didn't quite get that. Please tell me about a movie you have seen. Dont't forget quotes around the movie title!
+> ...
+
+[224, 1807, 3546, 3733, 5067, 7061, 7269]
+[96mmoviebot> [0mApologies, but I don't understand. Tell me about a movie you have seen.
+> I saw "Titanic (1220)"
+
+[]
+[96mmoviebot> [0mDid you spell that movie title wrong? Please try again.
+> :quit
+[96mmoviebot> [0mThank you for hanging out with me! Stay in touch! Goodbye!

@@ -1,0 +1,64 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        This chatbot has two modes, standard and creative. It will ask you for 5 movie,
+        and if you are in creative mode, you can specify many of those movies together!
+        Once you tell chatbot how you feel about those movies, it will start recommending them.
+        I hope you enjoy using it and get some great movie recommendations!
+        
+[96mCERTain bot> [0mHowdy! They call me CERTain bot. I created by Claire, Emily, Rachel, and Thomas. Tell me about a movie you do or don't like!
+> I liked "Titanic (1997)"
+
+[96mCERTain bot> [0mI bet the movie "Titanic (1997)" was pretty as a peach. I reckon y'all could give me another movie and tell me how y'all felt about it.
+> I hated "Zootopia"
+
+[96mCERTain bot> [0mIt doesn't seem like "Zootopia (2016)." was your cup of tea, sweet tea. Sorry to hear that. We're living in high cotton with all these movies. Come on, one more!
+> I liked "Tangled Ever After"
+
+[96mCERTain bot> [0mThat dog don't hunt but you do! I'm adding "Tangled Ever After (2012)" to the list of movies that you've liked. We'll be waiting till the cows come home if y'all keep taking this long. Any other favorite or least favorite movies?
+> I hated "Sleeping Beauty"
+
+[96mCERTain bot> [0mWell, I''ll be damned! I also hated "Sleeping Beauty (1959)"! Betcha can't name one more movie!
+> I liked "Mulan"
+
+[96mCERTain bot> [0mI'm glad "Mulan (1998)" made you feel some typa way! That's enough for me to make a recommendation!
+Based on what y'all say, I think "The Ridiculous 6 (2015)" may make y'all happier than a dead pig. Want to hear another one sweetie? (Or enter :quit if you're done)
+> yes
+
+[96mCERTain bot> [0m
+I suggest you watch "Pixels (2015)". It may butter your biscuit, ya know? Want to hear another one sweetie? (Or enter :quit if you're done)
+> yes
+
+[96mCERTain bot> [0m
+I suggest you watch "World War Z (2013)". It may butter your biscuit, ya know? I don't reckon y'all would want more movie recommendations? (Or enter :quit if you're done)
+> yes
+
+[96mCERTain bot> [0m
+I suggest you watch "The Karate Kid (2010)". It may butter your biscuit, ya know? Would you like another recommendation darlin'? Or shall I hush up. (Or enter :quit if you're done)
+> y
+
+[96mCERTain bot> [0m
+I suggest you watch "Not Another Teen Movie (2001)". It may butter your biscuit, ya know? I don't reckon y'all would want more movie recommendations? (Or enter :quit if you're done)
+> y
+
+[96mCERTain bot> [0m
+Based on what y'all say, I think "Damage (Fatale) (1992)" may make y'all happier than a dead pig. Want to hear another one sweetie? (Or enter :quit if you're done)
+> Yes!
+
+[96mCERTain bot> [0m
+Y'all might could watch "Knowing (2009)" next! I don't reckon y'all would want more movie recommendations? (Or enter :quit if you're done)
+> yeah
+
+[96mCERTain bot> [0m
+Based on what y'all say, I think "Food, Inc. (2008)" may make y'all happier than a dead pig. Want to hear another one sweetie? (Or enter :quit if you're done)
+> no
+
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!
+> nah
+
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!
+> :quit
+[96mCERTain bot> [0mHope you got some good new movie recommendations! Im CERTain you'll enjoy them!

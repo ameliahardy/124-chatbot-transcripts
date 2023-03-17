@@ -1,0 +1,88 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi! I'm Chatty! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[]
+[96mmoviebot> [0mGreat! Thanks for telling me you loved "Titanic (1997)". Tell me about a new movie!
+> I hated "Zootopia"
+
+[]
+[96mmoviebot> [0mGreat! Thanks for telling me you dissaproved of "Zootopia". Tell me about a new movie!
+> I liked "Tangled Ever After"
+
+[]
+[96mmoviebot> [0mI'm happy to hear you enjoyed "Tangled Ever After". What is another movie?
+> I hated "Sleeping Beauty"
+
+[]
+[96mmoviebot> [0mOk, you didn't like "Sleeping Beauty". Tell me about another movie.
+> I liked "Mulan"
+
+[]
+[96mmoviebot> [0mGreat! Thanks for telling me you loved "Mulan".
+That's enough for me to make a recommendation.
+I think you'll like "The Ridiculous 6 (2015)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[545, 595, 1780, 2351, 5605, 7269, 8857]
+[96mmoviebot> [0m
+You should watch "Pixels (2015)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[545, 595, 1780, 2351, 5605, 7269, 8857]
+[96mmoviebot> [0m
+You should watch "World War Z (2013)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> yes
+
+[545, 595, 1780, 2351, 5605, 7269, 8857]
+[96mmoviebot> [0m
+You should watch "Karate Kid, The (2010)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> y
+
+[7269]
+[96mmoviebot> [0m
+Try "Not Another Teen Movie (2001)"!
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> y
+
+[7269]
+[96mmoviebot> [0m
+You should watch "Damage (Fatale) (1992)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> Yes!
+
+[1061]
+[96mmoviebot> [0m
+Try "Knowing (2009)"!
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> yeah
+
+[]
+[96mmoviebot> [0m
+Try "Food, Inc. (2008)"!
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> no
+
+[3720]
+[96mmoviebot> [0m
+I think you'll like "Criminal Lovers (1999)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> nah
+
+[8552]
+[96mmoviebot> [0m
+I think you'll like "Barfly (1987)".
+ Would you like to hear another recommendation? (Or enter :quit if you're done.)
+> :quit
+[96mmoviebot> [0mThank you for hanging out with me! Stay in touch! Goodbye!

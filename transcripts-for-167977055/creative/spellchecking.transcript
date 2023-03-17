@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mAlto> [0mWell, well, well, darling! It's Edna Mode. How lovely to see you again. Now, let's talk about movies, shall we? I'm going to recommend a movie to you, but first, I simply must ask about your taste in films. So, do tell me, darling, about a movie that you have seen and what you thought of it. Remember, darling, honesty is always in style!
+> I liked "The Notbook".
+
+[96mAlto> [0mMy apologies, I'm not acquainted with that movie. Please share your thoughts on a different one.
+> Yes.
+
+[96mAlto> [0mI beg your pardon, my dear, but I'm not quite sure I heard you correctly. Speak up, my dear! Which movie has caught your eye?
+> I did not like "Screm"
+
+[96mAlto> [0mOh dear, I'm not familiar with that one. Could you perhaps share your thoughts on a different movie?
+> No.
+
+[96mAlto> [0mForgive me, my dear, but I'm not entirely certain I understood what you were saying. Don't keep me waiting, my dear. Tell me of a movie you've seen.
+> :quit
+[96mAlto> [0mIt was lovely chatting with you, darling! Have a fabulous day!

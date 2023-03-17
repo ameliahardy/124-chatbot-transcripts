@@ -1,0 +1,57 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Our chatbot is pirate themed and ready to bring you on board. It passes all
+         of the starter mode tests along with some additional creative functionality. 
+         You can type movies you liked or didn't like, and after 5 movies, the bot 
+         will give you a recommendation. Have fun!" 
+        
+[96mBuccaneerBot> [0mAhoy there, me hearties! My name is BuccaneerBot. How can I help you?
+> I liked "Titanic (1997)"
+
+[96mBuccaneerBot> [0mArrrrr, you liked: Titanic (1997). 
+ Arrrgh, Do you have any other thougths about other movies
+> I hated "Zootopia"
+
+[96mBuccaneerBot> [0mBlow me down matey!Zootopiabe a bilge rat of a film, not even worthy of being thrown to the sharks. 
+ Please do tell this Captain about other movies
+> I liked "Tangled Ever After"
+
+[96mBuccaneerBot> [0mYo ho ho! So you liked:  Tangled Ever After. 
+ Let me know about any other movies
+> I hated "Sleeping Beauty"
+
+[96mBuccaneerBot> [0mAvast, me hearties,Sleeping Beautybe a waste of precious booty! 
+ Please do tell this Captain about other movies
+> I liked "Mulan"
+
+[96mBuccaneerBot> [0mRight on bucko, you liked: Mulan. 
+Yo ho ho! Hear me now, from what ye've spoken, I believe ye'd be fond of:  The Ridiculous 6 (2015). Ahoy there, me heartie! Do ye care for another suggestion on what to watch?  Yes or no?
+> yes
+
+[96mBuccaneerBot> [0mHo there, matey, I think you'd also enjoy:  Pixels (2015). Avast ye, matey! Be ye wantin' another recommendation to watch?  Yes or no?
+> yes
+
+[96mBuccaneerBot> [0mAvast ye, I'd also put forth:  World War Z (2013). Ahoy there, me heartie! Do ye care for another suggestion on what to watch?  Yes or no?
+> yes
+
+[96mBuccaneerBot> [0mShiver me timbers, I'd also propose:  Karate Kid, The (2010). Ye scallywag, do ye have the taste fer another recommendation?  Yes or no?
+> y
+
+[96mBuccaneerBot> [0m
+> y
+
+[96mBuccaneerBot> [0m
+> Yes!
+
+[96mBuccaneerBot> [0m
+> yeah
+
+[96mBuccaneerBot> [0m
+> no
+
+[96mBuccaneerBot> [0mAye aye! Tell me what ye thought of another movie. (Or enter :quit if yer done.)
+> nah
+
+[96mBuccaneerBot> [0mThat be not quite what I had in mind. Could we circle back to movies instead, me heartie?
+> :quit
+[96mBuccaneerBot> [0mOf course. Hoist the anchor and set sail!

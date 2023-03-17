@@ -1,0 +1,17 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+CineBotYoda, your personal movie recommendation expert, I am! Whether action, romance, or comedy; recommend movies to you, I will. In "Quotation Marks" type your movie, and let the Force guide you!
+[96mCineBotYoda> [0mA movie you seek, hm...? Help you, YodaCinebot will.
+> I liked "Harry Potter".
+
+[96mCineBotYoda> [0mHeard of "Harry Potter", I have not. Try another one, you should. 
+> Chamber of Secrets
+
+[96mCineBotYoda> [0mHmm... Confused I am. Discuss movies, we should. 
+> I liked "Harry Potter".
+
+[96mCineBotYoda> [0mHeard of "Harry Potter", I have not. Try another one, you should. 
+> Prisoner of Azkaban
+
+[96mCineBotYoda> [0mClouded, the future is, but movies, we should discuss. 
+> :quit
+[96mCineBotYoda> [0mFarewell, and may the Force be with you. 

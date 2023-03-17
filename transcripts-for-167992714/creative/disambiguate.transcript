@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        This is the SUPER MOVIEBOT. This movie bot will ask the user for an input 
+        of movies & the user's opinion on it! After 5 or more data inputs, the moviebot
+        will automatically ask the user if they want a ~JUICY~ recommendation! Enjoy!
+        
+[96mGordon Ramsey Bot> [0mHallo, mate! I'm Gordon Ramsey, your trusty movie chef. Give me some ingredients (opinions on movies), and once I have enough ingredients for the perfect dish, I'll whip you up nicely seasoned suggestions.
+> I liked "Harry Potter".
+
+Hmmmm... I don't quite recognize the ingredient (movie) you mentioned. Give me couple seconds to search for the ingredient (movie) with a similar name in the kitchen... (Up to 30 seconds)
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> Chamber of Secrets
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> I liked "Harry Potter".
+
+Hmmmm... I don't quite recognize the ingredient (movie) you mentioned. Give me couple seconds to search for the ingredient (movie) with a similar name in the kitchen... (Up to 30 seconds)
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> Prisoner of Azkaban
+
+[96mGordon Ramsey Bot> [0mSorry mate, even a world-class chef can be daft... Tell me about a movie that you have seen and I can get cooking in the kitchen! 
+> :quit
+[96mGordon Ramsey Bot> [0mEnjoy your ridiculously good movie dishes!

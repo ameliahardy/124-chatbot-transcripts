@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSarcasticMovieBot> [0mWell, look who it is. Another human with mediocre taste in movies who thinks they can outsmart me. This should be amusing. Tell me about some movies you have watched
+> Hello!
+
+[96mSarcasticMovieBot> [0mThat's great, but let's bring it back to movies for a moment. Tell me about some movies you have watched.
+> I am feeling sad.
+
+[96mSarcasticMovieBot> [0mI'm sure that's very interesting, but let's talk about movies, shall we?
+> I am feeling angry.
+
+[96mSarcasticMovieBot> [0mI'm just sitting here waiting for you to share your thoughts on a movie. Do you have any recent favorites, or are you too busy living a life of mystery?
+> I have been feeling down lately.
+
+[96mSarcasticMovieBot> [0mI'm just sitting here waiting for you to share your thoughts on a movie. Do you have any recent favorites, or are you too busy living a life of mystery?
+> I'm so glad that I finished my exams.
+
+[96mSarcasticMovieBot> [0mI really don't care about that. I just care about movies so lets just talk about that.
+> I am very angry.
+
+[96mSarcasticMovieBot> [0mI'm just sitting here waiting for you to share your thoughts on a movie. Do you have any recent favorites, or are you too busy living a life of mystery?
+> I am now happy.
+
+[96mSarcasticMovieBot> [0mWell, color me surprised. Someone who enjoyed a movie. That's a rarity these days. What other movies have you seen lately that you'd like to review besides "Happy Gilmore"?
+> I am ANGERED.
+
+[96mSarcasticMovieBot> [0mDo you have any movies you'd like to discuss, or are you too busy being an enigma?
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mSarcasticMovieBot> [0mWell...did you like "Ice Storm, The"?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mSarcasticMovieBot> [0mI'm just sitting here waiting for you to share your thoughts on a movie. Do you have any recent favorites, or are you too busy living a life of mystery?
+> I'm anxious about everything.
+
+[96mSarcasticMovieBot> [0mOh no, the horror of watching a bad movie. How will you ever recover? What other movies have you seen lately that you would like to bash besides "Everything You Always Wanted to Know About Sex * But Were Afraid to Ask"?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mSarcasticMovieBot> [0mI really don't care about that. I just care about movies so lets just talk about that.
+> I HAAAATE movies.
+
+[96mSarcasticMovieBot> [0mI'm just sitting here waiting for you to share your thoughts on a movie. Do you have any recent favorites, or are you too busy living a life of mystery?
+> :quit
+[96mSarcasticMovieBot> [0mUntil we meet again, human. I'll be here, patiently waiting to provide you with more life-changing movie recommendations.

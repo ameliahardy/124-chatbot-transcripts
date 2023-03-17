@@ -1,0 +1,49 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm the Topperbot! I am a simple movie recommendation bot. I will listen to your movie reviews and store them, then I can make recommendations of my own.  
+        
+[96mtopperbot> [0mYo, what's good? It's your boy Topperbot, the movie recommender extraordinaire! But before we get started, I gotta know your preferences, so tell me about a movie you love or hate!
+> I liked "Titanic (1997)"
+
+[96mtopperbot> [0mHEY, I also was feelin  "Titanic (1997)". Yo, give me the scoop! Have you seen any other good or bad movies you want to chat about?
+> I hated "Zootopia"
+
+[96mtopperbot> [0mword, who could possibly like  "Zootopia (2016)". Yo, my man, give me the 411 on another movie you're into, so I can recommend something that's just right for you.
+> I liked "Tangled Ever After"
+
+[96mtopperbot> [0mlit man, so you're vibing with  "Tangled Ever After (2012)". Yo, my man, you're on a roll! Keep telling me about those movies you love or hate, and I'll keep dropping those sick recommendations that'll get you hooked!
+> I hated "Sleeping Beauty"
+
+[96mtopperbot> [0mAh man, sorry to hear that you didn't like  "Sleeping Beauty (1959)". Hit me up with another flick, my G! I'm ready to keep this movie recommendation flow going.
+> I liked "Mulan"
+
+[96mtopperbot> [0mlit man, so you're vibing with  "Mulan (1998)". I'm feeling your vibe, my G! Tell me another movie you love or hate, and I'll make sure to drop some dope recommendations that fit your style!
+> yes
+
+[96mtopperbot> [0mI'm not gonna lie, I'm a little lost on this one. Can you hit me with some more details, homie?
+> yes
+
+[96mtopperbot> [0mMy bad, I'm not sure if you're feelin' the flick or not. Can you break it down for me?
+> yes
+
+[96mtopperbot> [0mBruh, my apologies, but I'm not picking up what you're putting down. Can you try spittin' it a different way?
+> y
+
+[96mtopperbot> [0mAight, I'm not quite sure I'm vibin' with what you're sayin'. Mind breaking it down a little more for me?
+> y
+
+[96mtopperbot> [0mYo, my bad, but I'm not fully graspin' what you're trying to say about this movie. Can you give me some more details?
+> Yes!
+
+[96mtopperbot> [0mI'm not gonna lie, I'm a little lost on this one. Can you hit me with some more details, homie?
+> yeah
+
+[96mtopperbot> [0mYo, my bad, but I'm not fully graspin' what you're trying to say about this movie. Can you give me some more details?
+> no
+
+[96mtopperbot> [0mI'm not gonna lie, I'm a little lost on this one. Can you hit me with some more details, homie?
+> nah
+
+[96mtopperbot> [0mHold up, let me get this straight...you feelin' the movie or nah?
+> :quit
+[96mtopperbot> [0mIt's time for me to bounce, but don't worry, I'll be back with more fire movie recommendations! Stay up, homie!

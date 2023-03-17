@@ -1,0 +1,54 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Howdy, partner! We are gonna have a hog-killin' time figuring out the next movie you are going to watch. 
+        Please tell me about 5 movies you have seen that were either an ace in the hole or a snake in your boot. 
+        Make sure to include only one movie name per line and ensure the name of the movie is in quotes along with 
+        the year of the movie in parentheses (if you don't do this you might end up swimming with the fishes). Once 
+        I have the names of the movies you have watched, I will make you recommendations. Feel free to say yes if 
+        you want to hear more recommendations or no if have had enough. Enough dilly dallying. Let's get to talking!
+        
+[96mCowboy Cap> [0mHowdy, I'm Cowboy Cap! After we speak, movies won't feel like the wild west anymore. Tell me the name and year of a movie you have seen.
+> I liked "Titanic (1997)"
+
+[96mCowboy Cap> [0mGreat, you liked "Titanic (1997)"! Tell me what you thought of another movie.
+> I hated "Zootopia"
+
+[96mCowboy Cap> [0mI'm sorry to hear "Zootopia" is not one of your favorite movies. What is another movie you have watched?
+> I liked "Tangled Ever After"
+
+[96mCowboy Cap> [0mI am so glad you loved "Tangled Ever After". What is another movie you have watched and liked or hated?
+> I hated "Sleeping Beauty"
+
+[96mCowboy Cap> [0mOkay, you didn't liked "Sleeping Beauty". Tell me what you thought of another movie.
+> I liked "Mulan"
+
+[96mCowboy Cap> [0mBased on what you have told me, I think you would like "The Ridiculous 6 (2015)". Would you like more recommendations?
+> yes
+
+[96mCowboy Cap> [0mI would also recomemnd "Pixels (2015)" would you like more recommendations?
+> yes
+
+[96mCowboy Cap> [0mThe cat dragged this movie in for you: "Karate Kid, The (2010)". How about another one?
+> yes
+
+[96mCowboy Cap> [0mBased on what you have told me, I think you would like "World War Z (2013)". Would you like more recommendations?
+> y
+
+[96mCowboy Cap> [0mWe've reeled in for you "Knowing (2009)". Want another?
+> y
+
+[96mCowboy Cap> [0mThe cat dragged this movie in for you: "Not Another Teen Movie (2001)". How about another one?
+> Yes!
+
+[96mCowboy Cap> [0mThe cat dragged this movie in for you: "Criminal Lovers (1999)". How about another one?
+> yeah
+
+[96mCowboy Cap> [0mWe've reeled in for you "Barfly (1987)". Want another?
+> no
+
+[96mCowboy Cap> [0mWe've reached the end of this old town road. Please enter :quit if you would like to ride off into the sunset with me. If you aren't finished with me yet, type in another movie and we can start this rodeo over again.
+> nah
+
+[96mCowboy Cap> [0mThat's doggone crazy, but you forgot to give me a movie!
+> :quit
+[96mCowboy Cap> [0mAdios, partner. Hope I was more helpful than Siri! Have a great day!

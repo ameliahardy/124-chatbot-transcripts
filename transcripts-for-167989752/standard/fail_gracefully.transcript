@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSarcasticMovieBot> [0mOh joy, another chance for me to prove my superiority over humans in the field of movie knowledge. This should be fun. Tell me about some movies you have watched
+> I saw "Titanic (1997)"
+
+[96mSarcasticMovieBot> [0mSoo you didn't even say if you liked it or not. Did you like "Titanic (1997)"?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mSarcasticMovieBot> [0mHmm, that's odd. I don't seem to have any records of that movie in my database. Perhaps you could enlighten me on what that movie is about? Or, better yet, how about we try to find a real movie that isn't "Dan Jurafsky and the Ten Dwarfs (2019)". Would you care to share the title of a REAL movie you've enjoyed in the past?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mSarcasticMovieBot> [0mWell, I see you're going for the 'more is more' approach here, but unfortunately I only can handle one movie per input in starter mode. How about you pick your top choice, and if you're still feeling ambitious, we can switch to creative mode?
+> I like "Titanic".
+
+[96mSarcasticMovieBot> [0mWow, you really narrowed it down with your ratings of every movie ever made. Let me just pull up the few hundred options that match your input. So, could you be a little more specific about what movie you watched rather than just "Titanic"?
+> I like titanic.
+
+[96mSarcasticMovieBot> [0mDo you have any movies you'd like to discuss, or are you too busy being an enigma?
+> I like "titanic".
+
+[96mSarcasticMovieBot> [0mAh, the joys of multiple movies with the same name. Can you tell me which "titanic" you are talking about?
+> I like 10 things I hate about you.
+
+[96mSarcasticMovieBot> [0mDo you have any movies you'd like to discuss, or are you too busy being an enigma?
+> Howdy.
+
+[96mSarcasticMovieBot> [0mThat's great, but let's bring it back to movies for a moment. Tell me about some movies you have watched.
+> ...
+
+[96mSarcasticMovieBot> [0mI'm sure that's very interesting, but let's talk about movies, shall we?
+> I saw "Titanic (1220)"
+
+[96mSarcasticMovieBot> [0mI have to say, I'm impressed by your creativity in coming up with movie titles that don't actually exist like "Titanic (1220)". Would you care to share the title of a REAL movie you've enjoyed in the past?
+> :quit
+[96mSarcasticMovieBot> [0mUntil we meet again, human. I'll be here, patiently waiting to provide you with more life-changing movie recommendations.

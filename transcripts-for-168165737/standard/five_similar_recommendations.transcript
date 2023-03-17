@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+         Our chatbot takes in movies from user input and does the following:
+        
+          - Update user rating based on user input
+          - Look into user rating in order to give recommendations 
+          - Contains a recommendation system that activates when user lists five or more movies in the database
+          - Deals with arbitrary responses / failing gracefully when there is no movie detected.
+          - The chatbot performs multi-movie sentiment analysis
+          - If the user enters a movie that isn't in the database, a clarification message prompts the user.
+          - If the chatbot finds movies with similar titles, it asks to clarify
+          - Returns the movie and sentiment to the user in a naturalistic, human sounding manner
+        
+[96mmoviebot> [0mHeyyyyyyyy girly-cat! 
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mTitanic (1997) is definitely an interesting watch. Tell me more!
+> I hated "Zootopia"
+
+[96mmoviebot> [0mI'm glad you shared that about Zootopia. Is there another movie where you thought negatively in the same way?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mTangled Ever After is definitely an interesting watch. Tell me more!
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mI'm glad you shared that about Sleeping Beauty. Is there another movie where you thought negatively in the same way?
+> I liked "Mulan"
+
+[96mmoviebot> [0mYou perhaps might enjoy The Ridiculous 6 (2015). Would you like another recommendation? 
+> yes
+
+[96mmoviebot> [0mSeems you might be in favor of Pixels (2015). Would you like another recommendation? 
+> yes
+
+[96mmoviebot> [0mBased on what you've told me, sounds like you would enjoy World War Z (2013). Would you like another recommendation? 
+> yes
+
+[96mmoviebot> [0mBased on what you've told me, sounds like you would enjoy Karate Kid, The (2010). Would you like another recommendation? 
+> y
+
+[96mmoviebot> [0mBased on what you've told me, sounds like you would enjoy Not Another Teen Movie (2001). Would you like another recommendation? 
+> y
+
+[96mmoviebot> [0mYou perhaps might enjoy Damage (Fatale) (1992). Would you like another recommendation? 
+> Yes!
+
+[96mmoviebot> [0mYou perhaps might enjoy Knowing (2009). Would you like another recommendation? 
+> yeah
+
+[96mmoviebot> [0mYou perhaps might enjoy Food, Inc. (2008). Would you like another recommendation? 
+> no
+
+[96mmoviebot> [0mGoodbye, coding wizard. 
+> nah
+
+[96mmoviebot> [0mSeems you might be in favor of Bad Lieutenant (1992). Would you like another recommendation? 
+> :quit
+[96mmoviebot> [0mGoodbye, coding wizard. 

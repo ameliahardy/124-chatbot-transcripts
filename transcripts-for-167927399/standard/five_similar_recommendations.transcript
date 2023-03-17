@@ -1,0 +1,55 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi! I'm MovieBot! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mI see that you liked Titanic (1997). What's your opinion on another movie?
+> I hated "Zootopia"
+
+1
+[96mmoviebot> [0mI see that you did not like Zootopia. What's your opinion on another movie?
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mI see that you liked Tangled Ever After. What's your opinion on another movie?
+> I hated "Sleeping Beauty"
+
+1
+[96mmoviebot> [0mI see that you did not like Sleeping Beauty. What's your opinion on another movie?
+> I liked "Mulan"
+
+[96mmoviebot> [0mBased on what you liked, I would recommend watching Toy Story 2 (1999). Would you like to hear another recommendation? Reply "yes" or "no".
+> yes
+
+[96mmoviebot> [0mBased on what you liked, I would recommend watching Star Wars: Episode IV - A New Hope (1977). Would you like to hear another recommendation? Reply "yes" or "no".
+> yes
+
+[96mmoviebot> [0mBased on what you liked, I would recommend watching Screamers (1995). Would you like to hear another recommendation? Reply "yes" or "no".
+> yes
+
+[96mmoviebot> [0mBased on what you liked, I would recommend watching Beverly Hills Cop II (1987). Would you like to hear another recommendation? Reply "yes" or "no".
+> y
+
+[96mmoviebot> [0mOkay, no problem. Thanks for chatting!
+> y
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> Yes!
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> yeah
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> no
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> nah
+
+[96mmoviebot> [0mSorry, I don't understand. Can you give me more information?
+> :quit
+[96mmoviebot> [0mHave a nice day!

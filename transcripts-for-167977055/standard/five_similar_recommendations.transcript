@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mAlto> [0mHi! I'm Alto I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[96mAlto> [0mOk, you liked "Titanic (1997)". I'm curious, could you share your thoughts on a movie you've seen recently?
+> I hated "Zootopia"
+
+[96mAlto> [0mYou did not liked "Zootopia (2016)". Thank you! I'm curious, could you share your thoughts on a movie you've seen recently?
+> I liked "Tangled Ever After"
+
+[96mAlto> [0mOk, you liked "Tangled Ever After (2012)". Could you talk about a movie that you have seen?
+> I hated "Sleeping Beauty"
+
+[96mAlto> [0mI'm hearing that you didn't like "Sleeping Beauty (1959)". Have you seen any movies that have really stood out to you? Can you tell me about one of them?
+> I liked "Mulan"
+
+[96mAlto> [0mGlad you enjoyed "Mulan (1998)".Your input has given me enough information to suggest a movie. "The Ridiculous 6 (2015)" might be worth your time! Would you like to hear another recommendation?(Or enter :quit if you're done.)
+> yes
+
+[96mAlto> [0mI think "Pixels (2015)" might interest you. Do you want to hear about another movie?(Or enter :quit if you're done.)
+> yes
+
+[96mAlto> [0m"World War Z (2013)" might be worth your time! Want to hear another movie reccomendation?(Or enter :quit if you're done.)
+> yes
+
+[96mAlto> [0mI think you'd like "Karate Kid, The (2010)". Want to hear another movie reccomendation?(Or enter :quit if you're done.)
+> y
+
+[96mAlto> [0mI think you'd like "Not Another Teen Movie (2001)". Want to hear another movie reccomendation?(Or enter :quit if you're done.)
+> y
+
+[96mAlto> [0mYou might want to check out "Damage (Fatale) (1992)". Can I give another reccomendatioin?(Or enter :quit if you're done.)
+> Yes!
+
+[96mAlto> [0m"Knowing (2009)" might be worth your time! Want to hear another movie reccomendation?(Or enter :quit if you're done.)
+> yeah
+
+[96mAlto> [0mYou might want to check out "Food, Inc. (2008)". Would you like to hear another recommendation?(Or enter :quit if you're done.)
+> no
+
+[96mAlto> [0mI'm not quite sure what you said. Would you like to hear another recommendation? Remember to enter :quit if you're done.
+> nah
+
+[96mAlto> [0mI didn't quite understand what you said. Want to hear another movie reccomendation? Remember to enter :quit if you're done.
+> :quit
+[96mAlto> [0mNice talking to you! Have a nice day!

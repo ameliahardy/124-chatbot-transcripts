@@ -1,0 +1,35 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+I can chat about movies.
+[96mmoviebot> [0mHi! I am moviebot. How can I help?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mOk, I'm not sure if you liked "Titanic (1997)". Tell me more about "Titanic (1997)".
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mSorry, I've never heard of "Dan Jurafsky and the Ten Dwarfs (2019)". Tell me about some other movies that you liked or hated!
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mI see, you liked "Titanic (1997)" and you liked "Scream" and you liked "10 Things I Hate About You". Tell me about some other movies that you liked or hated!
+> I like "Titanic".
+
+[96mmoviebot> [0m I found more than one movie called "Titanic". Which one did you mean?
+> I like titanic.
+
+[96mmoviebot> [0mI see.
+> I like "titanic".
+
+[96mmoviebot> [0mDo you have trouble spelling? Did you mean "Titanic"?
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mOk,I have long ears that help me hear very well, tell me about some other movies that you liked or hated!
+> Howdy.
+
+[96mmoviebot> [0mOk, got it.
+> ...
+
+[96mmoviebot> [0mI see.
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mI'm sorry, I've never heard of "Titanic (1220)". Tell me about some other movies that you liked or hated!
+> :quit
+[96mmoviebot> [0mThank You! Have a nice day!

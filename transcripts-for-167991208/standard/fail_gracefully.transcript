@@ -1,0 +1,42 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mWhat can I do for you?
+> I saw "Titanic (1997)"
+
+[96mmoviebot> [0mI'm sorry, I cannot tell if you liked Titanic (1997).
+ Tell me more about Titanic (1997)
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mmoviebot> [0mI've never heard of Dan Jurafsky and the Ten Dwarfs (2019). Sorry! Can you tell me about another movie I might have heard of?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mmoviebot> [0mPlease tell me about one movie at a time. Go ahead.
+> I like "Titanic".
+
+[96mmoviebot> [0mI found more than one movie called Titanic. Can you specify which movie you mean by providing the date it was released?
+> I like titanic.
+
+[96mmoviebot> [0mI couldn't find a movie... Please try again.
+> I like "titanic".
+
+[96mmoviebot> [0mDid you mean Titanic (1997)?
+> I like 10 things I hate about you.
+
+[96mmoviebot> [0mI couldn't find a movie... Please try again.
+> Howdy.
+
+[96mmoviebot> [0mI couldn't find a movie... Please try again.
+> ...
+
+[96mmoviebot> [0mI couldn't find a movie... Please try again.
+> I saw "Titanic (1220)"
+
+[96mmoviebot> [0mI've never heard of Titanic (1220). Sorry! Can you tell me about another movie I might have heard of?
+> :quit
+[96mmoviebot> [0mHave a splendid day!

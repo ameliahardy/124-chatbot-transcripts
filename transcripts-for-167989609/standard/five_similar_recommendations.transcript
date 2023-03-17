@@ -1,0 +1,58 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi! I'm MovieBot! I'm going to recommend a movie to you. First I will ask you about your taste in movies. Tell me about a movie that you have seen.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mOk, you liked 'Titanic (1997)'! Tell me what you thought of another movie.
+
+> I hated "Zootopia"
+
+[96mmoviebot> [0mHmm, it seems like you didn't really like 'Zootopia'. Can you tell me about a different movie?
+
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mOk, you liked 'Tangled Ever After'! Tell me what you thought of another movie.
+
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mHmm, it seems like you didn't really like 'Sleeping Beauty'. Can you tell me about a different movie?
+
+> I liked "Mulan"
+
+Got it! Let me think about what kind of movies you'd like...
+[96mmoviebot> [0mI recommend you watch The Ridiculous 6 (2015). Would you like more movie recommendations?
+> yes
+
+[96mmoviebot> [0mI recommend you watch Pixels (2015). Would you like more movie recommendations?
+> yes
+
+[96mmoviebot> [0mI recommend you watch World War Z (2013). Would you like more movie recommendations?
+> yes
+
+[96mmoviebot> [0mI recommend you watch Karate Kid, The (2010). Would you like more movie recommendations?
+> y
+
+[96mmoviebot> [0mSorry, I didn't understand that. Please answer with 'yes' or 'no'.
+> y
+
+[96mmoviebot> [0mSorry, I didn't understand that. Please answer with 'yes' or 'no'.
+> Yes!
+
+[96mmoviebot> [0mI recommend you watch Not Another Teen Movie (2001). Would you like more movie recommendations?
+> yeah
+
+[96mmoviebot> [0mI recommend you watch Damage (Fatale) (1992). Would you like more movie recommendations?
+> no
+
+[96mmoviebot> [0mOk, thanks for using MovieBot!
+> nah
+
+[96mmoviebot> [0mOk, thanks for using MovieBot!
+> :quit
+[96mmoviebot> [0mHave a nice day!

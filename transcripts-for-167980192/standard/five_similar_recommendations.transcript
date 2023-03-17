@@ -1,0 +1,169 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> I liked "Titanic (1997)"
+
+We have recorded that you rated Titanic (1997) [1.]
+[96mMovieChatbot> [0myou liked Titanic (1997) 
+ please tell me more about your movie preferences we need 3 more reviews to recommend
+> I hated "Zootopia"
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0myou disliked Zootopia 
+ please tell me more about your movie preferences we need 2 more reviews to recommend
+> I liked "Tangled Ever After"
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0myou liked Tangled Ever After 
+ please tell me more about your movie preferences we need 1 more reviews to recommend
+> I hated "Sleeping Beauty"
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+Karate Kid, The (2010)
+World War Z (2013)
+Knowing (2009)
+> I liked "Mulan"
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> yes
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> yes
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> yes
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> y
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> y
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> Yes!
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> yeah
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> no
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> nah
+
+We have recorded that you rated Titanic (1997) [1.]
+We have recorded that you rated Mulan (1998) [1.]
+We have recorded that you rated Sleeping Beauty (1959) [-1.]
+We have recorded that you rated Tangled Ever After (2012) [1.]
+We have recorded that you rated Zootopia (2016) [-1.]
+[96mMovieChatbot> [0mbased on your ratings I recommend 
+The Ridiculous 6 (2015)
+Pixels (2015)
+World War Z (2013)
+Karate Kid, The (2010)
+Not Another Teen Movie (2001)
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

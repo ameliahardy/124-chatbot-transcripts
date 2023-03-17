@@ -1,0 +1,50 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHow can I help you?
+> Hello!
+
+[96mmoviebot> [0mI'm astonished, you've left me flummoxed! Would you mind simplifying or being more explicit?
+> I am feeling sad.
+
+[96mmoviebot> [0mI'm astonished, you've left me speechless! Can you simplify or provide more information?
+> I am feeling angry.
+
+[96mmoviebot> [0mYou've really thrown me for a loop! Could you elaborate or simplify it for me?
+> I have been feeling down lately.
+
+[96mmoviebot> [0mYou've got my mind blown! Can you simplify or provide more specifics?
+> I'm so glad that I finished my exams.
+
+[96mmoviebot> [0mWow you stumped me! Can you either simplify or be more explicit?
+> I am very angry.
+
+[96mmoviebot> [0mYou've got me scratching my head! Can you provide more detail or simplify it?
+> I am now happy.
+
+[96mmoviebot> [0mI'm amazed, you've left me speechless! Could you clarify or provide more detail?
+> I am ANGERED.
+
+[96mmoviebot> [0mI'm astonished, you've left me flummoxed! Would you mind simplifying or being more explicit?
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mmoviebot> [0mI'm having trouble determining your opinion of Titanic (1997), can you help me out?
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mmoviebot> [0mI'm amazed, you've got me stumped! Would you mind being more explicit or simplifying?
+> I'm anxious about everything.
+
+[96mmoviebot> [0mYou've got me completely baffled! Can you make it simpler or add more specifics?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mmoviebot> [0mI'm flabbergasted, you've stumped me! Would you mind clarifying or being more detailed?
+> I HAAAATE movies.
+
+[96mmoviebot> [0mI'm impressed, you've got me stuck! Could you simplify or add more details?
+> :quit
+[96mmoviebot> [0mHave a nice day!

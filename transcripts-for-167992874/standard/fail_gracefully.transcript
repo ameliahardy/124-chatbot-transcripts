@@ -1,0 +1,37 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hi, I'm the Topperbot! I am a simple movie recommendation bot. I will listen to your movie reviews and store them, then I can make recommendations of my own.  
+        
+[96mtopperbot> [0mWhat's cracking, my homie? It's Topperbot, the movie recommendation mastermind, here to drop some knowledge on you! But first, I need to know what you're into, so tell me about a movie you love or hate, and I'll make sure to hook you up with some fresh picks that you'll absolutely love!
+> I saw "Titanic (1997)"
+
+[96mtopperbot> [0mI'm sorry, I don't know if you liked "Titanic (1997)" Try adding more words about how you felt about it
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mtopperbot> [0mSorry, I'm having trouble reading your vibe on this movie. Can you help me out and rephrase it?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mtopperbot> [0mYou already mentioned that movie. Give me a fresh one!
+> I like "Titanic".
+
+[96mtopperbot> [0mThere's a couple movies with that name. Did you mean: Titanic (1997) or Titanic (1997)?
+> I like titanic.
+
+[96mtopperbot> [0mI'm not gonna lie, I'm a little lost on this one. Can you hit me with some more details, homie?
+> I like "titanic".
+
+[96mtopperbot> [0mThere's a couple movies with that name. Did you mean: Titanic (1997) or Titanic (1997)?
+> I like 10 things I hate about you.
+
+[96mtopperbot> [0mSorry, I'm having trouble reading your vibe on this movie. Can you help me out and rephrase it?
+> Howdy.
+
+[96mtopperbot> [0mBruh, my apologies, but I'm not picking up what you're putting down. Can you try spittin' it a different way?
+> ...
+
+[96mtopperbot> [0mSorry, I'm having trouble reading your vibe on this movie. Can you help me out and rephrase it?
+> I saw "Titanic (1220)"
+
+[96mtopperbot> [0mHey, I'm feeling lost with this movie you mentioned. Can you run it back and give me some more info so I can understand?
+> :quit
+[96mtopperbot> [0mYo, it's been a pleasure recommending movies to you! Keep shining and watching those movies that speak to your soul! Topperbot out!

@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mbotto> [0mHi, I'm botto. I'm designed to generate movie suggestions for you. Can you start by telling me about a movie you liked or disliked?
+> I liked "Titanic (1997)"
+
+[96mbotto> [0mGreat, you liked "Titanic (1997)". Let's keep going! Tell me about another movie.
+> I hated "Zootopia"
+
+[96mbotto> [0mSorry to hear you disliked "Zootopia". Let's keep going! Tell me about another movie.
+> I liked "Tangled Ever After"
+
+[96mbotto> [0mGreat, you liked "Tangled Ever After". Let's keep going! Tell me about another movie.
+> I hated "Sleeping Beauty"
+
+[96mbotto> [0mSorry to hear you disliked "Sleeping Beauty". Let's keep going! Tell me about another movie.
+> I liked "Mulan"
+
+[96mbotto> [0mGreat, you liked "Mulan". Try watching "The Ridiculous 6 (2015)" next! Would you like another recommendation?
+> yes
+
+[96mbotto> [0mTry watching "Pixels (2015)" next! Would you like another recommendation?
+> yes
+
+[96mbotto> [0mTry watching "World War Z (2013)" next! Would you like another recommendation?
+> yes
+
+[96mbotto> [0mTry watching "Karate Kid, The (2010)" next! Would you like another recommendation?
+> y
+
+[96mbotto> [0mOkay, I won't give you one just yet. Are you ready for another recommendation now?
+> y
+
+[96mbotto> [0mOkay, I won't give you one just yet. Are you ready for another recommendation now?
+> Yes!
+
+[96mbotto> [0mTry watching "Not Another Teen Movie (2001)" next! Would you like another recommendation?
+> yeah
+
+[96mbotto> [0mTry watching "Damage (Fatale) (1992)" next! Would you like another recommendation?
+> no
+
+[96mbotto> [0mOkay, I won't give you one just yet. Are you ready for another recommendation now?
+> nah
+
+[96mbotto> [0mOkay, I won't give you one just yet. Are you ready for another recommendation now?
+> :quit
+[96mbotto> [0mKeep in touch and have a great day!

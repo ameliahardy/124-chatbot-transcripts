@@ -1,0 +1,61 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Hello! Welcome to our movie recommender chatbot. Tell us which movies
+        you like, dislike, or have seen, and we'll recommend movies you might
+        find enjoy.
+        
+[96mMovieChatbot> [0mHello, we are going to recommend you movies based on your reviews, type creative to do creative reviews, otherwise just type a review!
+> I liked "Harry Potter".
+
+We have recorded that you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) [1.]
+We have recorded that you rated Harry Potter and the Chamber of Secrets (2002) [1.]
+We have recorded that you rated Harry Potter and the Prisoner of Azkaban (2004) [1.]
+We have recorded that you rated Harry Potter and the Goblet of Fire (2005) [1.]
+We have recorded that you rated Harry Potter and the Order of the Phoenix (2007) [1.]
+We have recorded that you rated Harry Potter and the Half-Blood Prince (2009) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 1 (2010) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 2 (2011) [1.]
+[96mMovieChatbot> [0mcreative modeeyou liked Harry Potter 
+ please tell me more about your movie preferences we need 3 more reviews to recommend
+> Chamber of Secrets
+
+We have recorded that you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) [1.]
+We have recorded that you rated Harry Potter and the Chamber of Secrets (2002) [1.]
+We have recorded that you rated Harry Potter and the Prisoner of Azkaban (2004) [1.]
+We have recorded that you rated Harry Potter and the Goblet of Fire (2005) [1.]
+We have recorded that you rated Harry Potter and the Order of the Phoenix (2007) [1.]
+We have recorded that you rated Harry Potter and the Half-Blood Prince (2009) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 1 (2010) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 2 (2011) [1.]
+[96mMovieChatbot> [0mcreative modeesorry, I missed that movie .. tell me more  
+ please tell me more about your movie preferences we need 2 more reviews to recommend
+> I liked "Harry Potter".
+
+We have recorded that you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) [1.]
+We have recorded that you rated Harry Potter and the Chamber of Secrets (2002) [1.]
+We have recorded that you rated Harry Potter and the Prisoner of Azkaban (2004) [1.]
+We have recorded that you rated Harry Potter and the Goblet of Fire (2005) [1.]
+We have recorded that you rated Harry Potter and the Order of the Phoenix (2007) [1.]
+We have recorded that you rated Harry Potter and the Half-Blood Prince (2009) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 1 (2010) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 2 (2011) [1.]
+[96mMovieChatbot> [0mcreative modeeyou liked Harry Potter 
+ please tell me more about your movie preferences we need 1 more reviews to recommend
+> Prisoner of Azkaban
+
+We have recorded that you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) [1.]
+We have recorded that you rated Harry Potter and the Chamber of Secrets (2002) [1.]
+We have recorded that you rated Harry Potter and the Prisoner of Azkaban (2004) [1.]
+We have recorded that you rated Harry Potter and the Goblet of Fire (2005) [1.]
+We have recorded that you rated Harry Potter and the Order of the Phoenix (2007) [1.]
+We have recorded that you rated Harry Potter and the Half-Blood Prince (2009) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 1 (2010) [1.]
+We have recorded that you rated Harry Potter and the Deathly Hallows: Part 2 (2011) [1.]
+[96mMovieChatbot> [0mcreative modeebased on your ratings I recommend 
+Incredibles, The (2004)
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)
+Monsters, Inc. (2001)
+Ratatouille (2007)
+Toy Story 3 (2010)
+> :quit
+[96mMovieChatbot> [0mHave a nice day! great chatting with you

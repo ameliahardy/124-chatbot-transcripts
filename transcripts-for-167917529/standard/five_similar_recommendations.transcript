@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+            Hello! I'm Bud, your local movie-recommending chatbot! If you'd like to 
+            have some suggestions of movies you want to watch, I can help you out!
+            Just let me know a few movies you already know you like, and I'll 
+            suggest some new ones for you! 
+            
+[96mJack, Movie Expert> [0mIf you tell me a few movies you've seen, and what you thought, I can recommend you some ones you might like!
+ For example, you can say 'I liked "Titanic"'
+> I liked "Titanic (1997)"
+
+[96mJack, Movie Expert> [0mAwesome, I love a fellow 'Titanic (1997)' fan! 
+> I hated "Zootopia"
+
+[96mJack, Movie Expert> [0mOk, you weren't a fan of 'Zootopia', I'll remember that. 
+> I liked "Tangled Ever After"
+
+[96mJack, Movie Expert> [0mOk, you liked 'Tangled Ever After'. 
+> I hated "Sleeping Beauty"
+
+[96mJack, Movie Expert> [0mOk, you didn't like 'Sleeping Beauty'. 
+> I liked "Mulan"
+
+[96mJack, Movie Expert> [0mCool, I also liked 'Mulan'! Would you like to hear a recommendation?
+> yes
+
+[96mJack, Movie Expert> [0mGiven what you've told me, I think you would like The Ridiculous 6 (2015). Would you like another recommendation?
+> yes
+
+[96mJack, Movie Expert> [0mIt sounds like you'd really enjoy Pixels (2015). Would you like another recommendation?
+> yes
+
+[96mJack, Movie Expert> [0mIt sounds like you'd really enjoy World War Z (2013). Would you like another recommendation?
+> y
+
+[96mJack, Movie Expert> [0mThat's not something I know much about, I'm afraid. Can we talk about movies? 
+> y
+
+[96mJack, Movie Expert> [0mThat's not something I know much about, I'm afraid. Can we talk about movies? 
+> Yes!
+
+[96mJack, Movie Expert> [0mIf you haven't seen it, try Sunspring (2016); you seem like you'd like it. Would you like another recommendation?
+> yeah
+
+[96mJack, Movie Expert> [0mThat's not something I know much about, I'm afraid. Can we talk about movies? 
+> no
+
+[96mJack, Movie Expert> [0mOk, what other movies have you enjoyed?
+> nah
+
+[96mJack, Movie Expert> [0mThat's not something I know much about, I'm afraid. Can we talk about movies? 
+> :quit
+[96mJack, Movie Expert> [0mThanks for hanging out! Bye!!

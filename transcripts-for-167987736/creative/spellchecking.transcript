@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mYodaFlix> [0mWelcome to Yodaflix, the ultimate movie recommendation chatbot. Excited to help you find your next film, I am.
+> I liked "The Notbook".
+
+[96mYodaFlix> [0mdid you mean "Notebook, The (2004)"?
+> Yes.
+
+[96mYodaFlix> [0mSo liked "Notebook, The (2004)", you did. I see. The Force is asking to learn about another movie
+> I did not like "Screm"
+
+[96mYodaFlix> [0mdid you mean "Scream (1996)"?
+> No.
+
+[96mYodaFlix> [0mKnow another movie, do you? Tell me.
+> :quit
+[96mYodaFlix> [0mFarewell, fellow seeker of cinematic excellence. Until next time, may the Force guide your movie choices.

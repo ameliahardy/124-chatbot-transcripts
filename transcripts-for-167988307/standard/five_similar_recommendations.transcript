@@ -1,0 +1,53 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHi, I'm a movie reccomendation chatbot. To get started please tell me about some movies you've seen.
+> I liked "Titanic (1997)"
+
+[96mmoviebot> [0mSo you liked Titanic (1997). Tell me about another movie you've seen!
+> I hated "Zootopia"
+
+[96mmoviebot> [0mSo you didn't like Zootopia. Tell me about another movie you've seen!
+> I liked "Tangled Ever After"
+
+[96mmoviebot> [0mSo you liked Tangled Ever After. Tell me about another movie you've seen!
+> I hated "Sleeping Beauty"
+
+[96mmoviebot> [0mSo you didn't like Sleeping Beauty. Tell me about another movie you've seen!
+> I liked "Mulan"
+
+[96mmoviebot> [0mBased on what you've told me I think you would really enjoy Toy Story (1995). Would you like another recommendation?
+> yes
+
+[96mmoviebot> [0mPixels (2015) is another movie I believe you would like. Do you want another recommendation?
+> yes
+
+[96mmoviebot> [0mWorld War Z (2013) is another movie I believe you would like. Do you want another recommendation?
+> yes
+
+[96mmoviebot> [0mKarate Kid, The (2010) is another movie I believe you would like. Do you want another recommendation?
+> y
+
+[96mmoviebot> [0mI don't quite understand that response. Please try again...
+> y
+
+[96mmoviebot> [0mI don't quite understand that response. Please try again...
+> Yes!
+
+[96mmoviebot> [0mI don't quite understand that response. Please try again...
+> yeah
+
+[96mmoviebot> [0mNot Another Teen Movie (2001) is another movie I believe you would like. Do you want another recommendation?
+> no
+
+[96mmoviebot> [0mSounds good! If you would like tell me about more movies for a better recommendation. To quit the application type ':quit'.
+> nah
+
+[96mmoviebot> [0mI'm sorry. I'm not sure how this relates to movies.
+> :quit
+[96mmoviebot> [0mHave a nice day!

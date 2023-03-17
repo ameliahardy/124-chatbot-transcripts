@@ -1,0 +1,24 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Sherlock bot will deduce the best movie for you! Give it your opinion of a movie and it will extract
+        the sentiment. Ask for it to show you interesting movies or give you recommendations and it will 
+        begin returning a list of possible movie recommendations! If you spell something wrong or give a vague title,
+        no worries! Sherlock bot will help you clarify.
+        
+[96mSherlock Bot> [0mGreetings! How may I be of service!
+> I liked "The Notbook".
+
+[96mSherlock Bot> [0mIt appears there are no movies named "The Notbook". 
+Pardon my confusion, but could you please specify which of these you meant? Notebook, The (2004)?
+> Yes.
+
+[96mSherlock Bot> [0mBased on the evidence at hand, I conclude that you found yourself enjoying "Notebook, The (2004)", is that not correct? What other shows have you found to your liking?
+> I did not like "Screm"
+
+[96mSherlock Bot> [0mIt appears there are no movies named "Screm". 
+Might I trouble you to specify which of these you had in mind? Scream (1996)?
+> No.
+
+[96mSherlock Bot> [0mBased on the evidence at hand, I conclude that you dislike "Scream (1996)", is that right? Elementary!
+> :quit
+[96mSherlock Bot> [0mWonderful, we shall meet again!

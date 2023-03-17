@@ -1,0 +1,52 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Normal mode: welcome to the BusterBot. Please rate movies here, 
+        putting movies in quotations. Remember to give your opinion and please
+        avoid giving multiple movies at once!
+        
+[96mbusterbot> [0mHow can I help you?
+> I liked "Titanic (1997)"
+
+[96mbusterbot> [0mWahoo! "Titanic (1997)" is a great movie. Any other movies you want to rate?
+> I hated "Zootopia"
+
+[96mbusterbot> [0mWomp womp...."Zootopia (2016)" didn't hit the mark. Can you tell me about a different movie?
+> I liked "Tangled Ever After"
+
+[96mbusterbot> [0mI'm so glad you enjoyed "Tangled Ever After (2012)"! Care to share your opinion on another?
+> I hated "Sleeping Beauty"
+
+[96mbusterbot> [0mI'm sorry you didn't have a good experience with "Sleeping Beauty (1959)". Any other movies you want to rate?
+> I liked "Mulan"
+
+[96mbusterbot> [0mI'm so glad you enjoyed "Mulan (1998)"!
+Given what you told me, I think you would like "The Ridiculous 6 (2015)". Would you like more recommendations?
+> yes
+
+[96mbusterbot> [0m"Pixels (2015)" would be a good movie for you! Would you like more recommendations?
+> yes
+
+[96mbusterbot> [0mGiven your tastes, I would suggest watching "World War Z (2013)". Care for another recommendation? 
+> yes
+
+[96mbusterbot> [0mGiven your tastes, I would suggest watching "Karate Kid, The (2010)". Care for another recommendation? 
+> y
+
+[96mbusterbot> [0m"Not Another Teen Movie (2001)" would be a good movie for you! Would you like more recommendations?
+> y
+
+[96mbusterbot> [0mI would also recommend "Damage (Fatale) (1992)". How about another one?
+> Yes!
+
+[96mbusterbot> [0mI would also recommend "Knowing (2009)". How about another one?
+> yeah
+
+[96mbusterbot> [0mI would also recommend "Food, Inc. (2008)". How about another one?
+> no
+
+[96mbusterbot> [0mOkay. Can you tell me about another movie?
+> nah
+
+[96mbusterbot> [0mI'm sorry, did you mention a movie?
+> :quit
+[96mbusterbot> [0mHave a nice day!

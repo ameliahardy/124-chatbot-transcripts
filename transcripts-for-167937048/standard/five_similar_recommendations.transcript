@@ -1,0 +1,47 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+Welcome to CineBot, your personal movie recommendation expert! Whether you're in the mood for action, romance, or comedy, CineBot has got you covered. Just tell us what movies you like in "quotation marks", and let the movie magic begin!
+[96mCineBot> [0mGreetings! I'm CineBot, here to help you discover your next cinematic obsession.
+> I liked "Titanic (1997)"
+
+[96mCineBot> [0mI see you favored "Titanic (1997)". Tell me about another movie. 
+> I hated "Zootopia"
+
+[96mCineBot> [0mI see you were not fond of "Zootopia". What's another movie that you've seen? 
+> I liked "Tangled Ever After"
+
+[96mCineBot> [0mSo you enjoyed "Tangled Ever After". Tell me about another movie. 
+> I hated "Sleeping Beauty"
+
+[96mCineBot> [0mI understand that you didn't like "Sleeping Beauty". Are there any other movies you've liked or disliked?
+> I liked "Mulan"
+
+[96mCineBot> [0mI understand that you liked "Mulan". You should watch "Steve Jobs (2015)"! Would you like another recommendation? 
+> yes
+
+[96mCineBot> [0mYou should watch "Employee of the Month (2006)"! Would you like another recommendation? 
+> yes
+
+[96mCineBot> [0mYou should watch "I Love You, Beth Cooper (2009)"! Would you like another recommendation? 
+> yes
+
+[96mCineBot> [0mYou should watch "Vow, The (2012)"! Would you like another recommendation? 
+> y
+
+[96mCineBot> [0mMaybe we should get talk more about movies. 
+> y
+
+[96mCineBot> [0mMaybe we should get talk more about movies. 
+> Yes!
+
+[96mCineBot> [0mYou should watch "Lucky One, The (2012)"! Would you like another recommendation? 
+> yeah
+
+[96mCineBot> [0mYou should watch "Safe Haven (2013)"! Would you like another recommendation? 
+> no
+
+[96mCineBot> [0mIf you'd like more recommendations, just tell me about some more movies that you've watched! 
+> nah
+
+[96mCineBot> [0mLet's get back to discussing movies. 
+> :quit
+[96mCineBot> [0mEnjoy your movie!
