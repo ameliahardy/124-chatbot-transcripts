@@ -1,0 +1,36 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mmoviebot> [0mHey, Dwayne Johnson here. You might know me as The Rock. I've been working with the best actors in Hollywood so let me know if I can recommend you some movies.
+> I liked "Blade Runner".
+
+[96mmoviebot> [0mOh, so you liked Blade Runner (1982).
+ Tell me what you thought of another movie. 1
+> But not "Terminator Salvation".
+
+[96mmoviebot> [0mI'm sorry, I'm not sure if you liked Terminator Salvation (2009). Tell me more about it.
+> I saw "Titanic (1997)".
+
+[96mmoviebot> [0mI found more than one movie called Titanic (1997). Can you clarify?
+> I liked it.
+
+[96mmoviebot> [0mI found more than one movie called it. Can you clarify?
+> I watched "Scream".
+
+[96mmoviebot> [0mI found more than one movie called Scream. Can you clarify?
+> I didn't like that movie.
+
+[96mmoviebot> [0mSorry, I don't understand. Tell me about a movie that you have seen.
+> I felt the same about "Zootopia".
+
+[96mmoviebot> [0mI'm sorry, I'm not sure if you liked Zootopia (2016). Tell me more about it.
+> And also "Ex Machina".
+
+[96mmoviebot> [0mI'm sorry, I'm not sure if you liked Ex Machina (2015). Tell me more about it.
+> :quit
+[96mmoviebot> [0mHEY! DON'T LEAVE BEFORE DOING YOUR DAILY 1000 PUSHUPS!!!!! AND REMEMBER : BE HUMBLE, BE HUNGRY, AND ALWAYS BE THE HARDEST WORKER IN THE ROOMa
