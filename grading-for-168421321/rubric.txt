@@ -1,0 +1,109 @@
+#########################################################################################
+# TODO: Fill this template out in addition to the code implementation in chatbot.py!    #
+#                                                                                       #
+# Each "Creative" feature in the rubric has a section below.                            #
+# For every feature you chose to implement, replace the "NO" at the end of the relevant #
+# lines with "YES".                                                                     #
+#                                                                                       #
+# You will only receive credit for the features you mark as YES below!                  #
+#########################################################################################
+
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 1): NO
+FEATURE - Identifying movies without quotation marks and correct capitalization (part 2): YES
+FEATURE - Alternate/foreign titles: YES
+FEATURE - Disambiguation (part 1): NO
+FEATURE - Fine-grained sentiment extraction: YES
+FEATURE - Spell-correcting fallback for find_movies_by_title: YES
+FEATURE - Extracting sentiment with multiple-movie input: YES
+FEATURE - Disambiguation (part 2): YES
+FEATURE - Dialogue for spell-checking: YES
+FEATURE - Dialogue for disambiguation: YES
+FEATURE - Communicating sentiments and movies extracted to the user given multiple-movie input: YES
+FEATURE - Responding to arbitrary input: YES
+FEATURE - Identifying and responding to emotions: YES
+FEATURE - Chatbot theme/persona: YES
+Did not implement any of the above features: NO
+
+#########################################################################################
+# Team Contributions                                                                    #
+#########################################################################################
+Chetan: Collaborated with Mena in developing the following features:
+1. extract_sentiment
+2. recommend
+3. similarity
+4. binarize
+5. process - dialogue for spellchecking and disambiguation, communicating multiple sentiments,
+    responding to emotions, responding to arbitrary input
+6. fine-grain-sentiment
+7. extracting sentiment with multiple movie input
+8. disambiguation part 2
+
+Mena: Collaborated with Chetan in developing the following features:
+1. extract_sentiment
+2. recommend
+3. similarity
+4. binarize
+5. process - dialogue for spellchecking and disambiguation, communicating multiple sentiments,
+    responding to emotions, responding to arbitrary input
+6. fine-grain-sentiment
+7. extracting sentiment with multiple movie input
+8. disambiguation part 2
+
+Mothana: 
+1. find movies- coded an implementation that got most but not all test cases
+2. find movies closest title/spell check- implemented this and the edit distance helper to get every test case/sanity check working
+3. extract titles- did an implementation for the starter tests and also for creative mode, but creative mode didn’t work for cases with missing quotations,
+4. disambiguate 2- attempted the creative part and got 1/2 test cases
+Collaborated with Ifdita on developing the above features.
+
+Ifdita: 
+I worked on the functions 
+1. Extract Titles 
+2. Find movies by title 
+3. finding movies closest to a title 
+I wrote the Ethics write-up
+Collaborated with Mothana on developing the above features.
+
+We all worked together to come up with the persona and modify the responses to be 
+consistent with the persona we decided. We all also had multiple rounds of code 
+review and debugging where we would get together to review each other's code 
+and help debug any issues that we came across with the test cases and scripts. 
+
+
+#########################################################################################
+# Ethics Question                                                                  #
+#########################################################################################
+
+Humans are quick to anthropomorphize chatbots, like ELIZA. 
+In the 1960’s, users’ trust in ELIZA raised numerous concerns that humans would believe the system’s advice, 
+even if ELIZA did not actually know what it was talking about. Newer chatbots are built using neural networks, 
+like those you implemented in PA5. These neural networks are trained on enormous sets of data, from online 
+sources like Reddit and Twitter. These sources are interlaced with offensive text that are often reproduced 
+in chatbot responses. Furthermore, the newest advanced models, like GPT-3, have produced responses that appear 
+that they were written by a human.
+
+What are some possible ramifications of anthropomorphizing chatbot systems? Can you think of any ways that 
+engineers could ensure that users can easily distinguish the chatbot responses from those of a human?
+
+When we anthropomorphize chatbot systems and give them human attributes, humans engaging with these chatbots for 
+example, during therapy sessions are more likely to develop unrealistic expectations  and strong emotional connection 
+with the chatbots. However, if the chatbot fails to understand or respond appropriately, it can cause negative feelings 
+in the person. There will be instances when the users will realize that the chatbot they are talking to is not human, 
+causing detrimental effects on their mental health. Users who have less knowledge of the technical aspects of chatbots may assume 
+that they are accurate sources of advice and blindly follow their suggestions even when the suggestions are not beneficial. 
+Furthermore, a chatbot with malicious feature can lead to the disclosure of sensitive user information, breaching their privacy. 
+
+Ways to distinguish chatbot responses from those of a human:
+Engineers can put a visible disclaimer like ”I AM A ROBOT” on the interface, so that users know that they are talking to a robot through out the conversation. 
+Chatbots can also be designed to give a straight forward introduction, claiming that it is a robot. 
+Incorporate different wording/ tone into the chatbot that would distinguish the chatbot from a human. 
+
+
+
+
+#########################################################################################
+# Optional: Feel free to include anything else that you want us to know about your      #
+# implementation!                                                                       #
+#########################################################################################
+(optional) If you have anything else you want to add, delete this and type it here!
+

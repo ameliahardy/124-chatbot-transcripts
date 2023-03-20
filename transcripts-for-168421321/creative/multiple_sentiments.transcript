@@ -1,0 +1,30 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        
+        Description: I am a chatbot name Sherlock HomieBot and I can provide you with 
+        movie recommendations based on how you feel about movies. I can also do a couple of 
+        other cool things! Tell me about movies you've seen!
+        
+[96mSherlock HomieBot> [0mWell hello there! My name is Sherlock Holmes. It is my business to know what other people don't know. I'm here to deduce the best movie recommendations for you! Let's get straight to business. Tell me about a movie. Spare no details!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mSherlock HomieBot> [0mI processed I didn't like either "Titanic (1997)" or "Ex Machina". in creative mode!! 
+Preposterous! You didn't like "Titanic (1997)" and... I observe that you did not like "Ex Machina". Lend me more clues to the case! Tell me about another movie!
+> I liked "Zootopia" but not "Scream".
+
+[96mSherlock HomieBot> [0mI processed I liked "Zootopia" but not "Scream". in creative mode!! 
+Let me jot that down in my fieldbook. You liked "Zootopia" and... Preposterous! You didn't like "Scream". Lend me more clues to the case! Tell me about another movie!
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mSherlock HomieBot> [0mI processed I hated "Zootopia" and also "Eat Pray Love". in creative mode!! 
+Preposterous! You didn't like "Zootopia" and... Another clue to the case of the lost recommendation! You disliked "Eat Pray Love".My many years as a detective tells me that you'll enjoy "Rookie of the Year (1993)". Would you like another recommendation?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mSherlock HomieBot> [0mI processed I liked "Zootopia", "Blade Runner", and "The Notebook" in creative mode!! 
+Enter :quit if you're done :)
+> :quit
+[96mSherlock HomieBot> [0mIt's been a pleasure solving your case. Now I must depart for yet another case. The game is afoot!
