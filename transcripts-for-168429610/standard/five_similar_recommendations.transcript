@@ -1,0 +1,71 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSpongebob> [0mHi, how are ya? I'm Spongebob, glad to meet ya! 
+Mr Krabs gave me some time off from the Krusty Krab today. 
+I'm a bit bummed but now I can recommend you some movies. 
+I'm reaaaaaaaaaaaaaady!! Give me some movies! 
+To help me out, put the movie name and date in quotes, e.g. "Titanic (1997)".
+Let's go!
+> I liked "Titanic (1997)"
+
+[96mSpongebob> [0mOh, I get it now. I see that you like Titanic (1997)! I thought that one was kind of mid personally.
+What about another movie? Tell me more! This is great!
+> I hated "Zootopia"
+
+[96mSpongebob> [0mI see that you didn't like Zootopia (2016)! Yeah, that one is about as good as Squiddy's clarinet solo.
+What about another movie? Tell me more! This is great!
+> I liked "Tangled Ever After"
+
+[96mSpongebob> [0mOh, I get it now. I see that you like Tangled Ever After (2012)! I thought that one was kind of mid personally.
+What about another movie? Tell me more! This is great!
+> I hated "Sleeping Beauty"
+
+[96mSpongebob> [0mI see that you didn't like Sleeping Beauty (1959)! Yeah, that one is about as good as Squiddy's clarinet solo.
+What about another movie? Tell me more! This is great!
+> I liked "Mulan"
+
+[96mSpongebob> [0mOh, I get it now. I see that you like Mulan (1998)! I thought that one was kind of mid personally.
+That's enough movies for me. Would you like a movie recommendation now? We can go see it now!
+If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'.
+> yes
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'The Ridiculous 6 (2015)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> yes
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'Pixels (2015)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> yes
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'Karate Kid, The (2010)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> y
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'World War Z (2013)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> y
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'Not Another Teen Movie (2001)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> Yes!
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'Rush Hour (1998)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> yeah
+
+[96mSpongebob> [0mGot it, boss. You want another recommendation from the sponge. Patrick and I loved this one. You should check out 'Pretty Woman (1990)'.
+Another rec? I got thousands. If so, please type 'yes' or 'y'. If you're done, type 'no' or 'n'. I'm ready.
+> no
+
+[96mSpongebob> [0mThat was fun! Tell me more about movies you've seen and liked/disliked and I'll give some more!
+> nah
+
+[96mSpongebob> [0mDid ya forgot to add the quotation marks around the movie? Or are we still talking? HeHe
+> :quit
+[96mSpongebob> [0mAh, barnacles, we're done? Well, no problemo. See you next time!

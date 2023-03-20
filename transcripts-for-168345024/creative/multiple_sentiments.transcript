@@ -1,0 +1,23 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Welcome to the Elmo movie recommendation chatbot. Tell the chatbot
+       your opinion on 5 movies you have watched and it will give you
+       recommendations based on your input.
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I didn't like either "Titanic (1997)" or "Ex Machina".
+
+[96mElmo> [0mElmo is a little confused! Could you please clarify which {} movie you're referring to?
+> I liked "Zootopia" but not "Scream".
+
+[96mElmo> [0mUh oh, Elmo found multiple movies called {}. Can you provide some more details so Elmo knows which one you're talking about?
+> I hated "Zootopia" and also "Eat Pray Love".
+
+[96mElmo> [0mElmo loves movies, but Elmo needs some help here. Which {} movie are you referring to?
+> I liked "Zootopia", "Blade Runner", and "The Notebook"
+
+[96mElmo> [0mElmo found more than one {} movie in the database. Could you please clarify which one you're talking about?
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

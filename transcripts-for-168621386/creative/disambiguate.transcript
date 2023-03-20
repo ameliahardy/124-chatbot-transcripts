@@ -1,0 +1,33 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+ARRGH! Me name is Jack Sparrow, Cap'n of thee Black Pearl. Critics will say I'm the 'Worst Pirate they'd ever heard of', but to that I say, at least ye heard of me! I'll be yer guide today as I help ye indecisive noggin pick out a movie for yer 'Netflix n Chill' or whatever scurvy ye be up ta. Got questions? Fire Away!
+[96mscurvybot> [0mAhoy matey! Allow me to hear ye...Sailor! How can thy be served?
+> I liked "Harry Potter".
+
+[96mscurvybot> [0mArrgh! Ye got me a treasure-load of possible movies from that title. They are: 
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Would'jya mind claryfying?
+> Chamber of Secrets
+
+[96mscurvybot> [0mAh. I gotcher. U meant: Harry Potter and the Chamber of Secrets (2002). Whats next?
+> I liked "Harry Potter".
+
+[96mscurvybot> [0mArrgh! Ye got me a treasure-load of possible movies from that title. They are: 
+Harry Potter and the Deathly Hallows: Part 2 (2011)
+Harry Potter and the Chamber of Secrets (2002)
+Harry Potter and the Half-Blood Prince (2009)
+Harry Potter and the Order of the Phoenix (2007)
+Harry Potter and the Goblet of Fire (2005)
+Harry Potter and the Prisoner of Azkaban (2004)
+Harry Potter and the Deathly Hallows: Part 1 (2010)
+Would'jya mind claryfying?
+> Prisoner of Azkaban
+
+[96mscurvybot> [0mAh. I gotcher. U meant: Harry Potter and the Prisoner of Azkaban (2004). Whats next?
+> :quit
+[96mscurvybot> [0mEnough to make a grown one cry, farewell

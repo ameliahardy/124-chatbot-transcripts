@@ -1,0 +1,25 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Welcome to the Elmo movie recommendation chatbot. Tell the chatbot
+       your opinion on 5 movies you have watched and it will give you
+       recommendations based on your input.
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I liked "The Notbook".
+
+[96mElmo> [0mUh-oh, Elmo couldn't find that movie. Maybe Elmo didn't hear you quite right? Elmo can be a little silly sometimes!
+Here are some other movies that are similar to what you said. Did you mean any of these?:
+['Notebook, The (2004)']
+> Yes.
+
+[96mElmo> [0mElmo didn't quite catch that. Yes or no would be great! Could you help Elmo out?
+> I did not like "Screm"
+
+[96mElmo> [0mHmm, Elmo's not sure what you meant. Could you please say yes or no, so Elmo can understand?
+> No.
+
+[96mElmo> [0mElmo loves hearing from you, but Elmo needs a little help. Can you respond with a yes or no, please?
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

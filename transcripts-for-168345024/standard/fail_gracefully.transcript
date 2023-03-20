@@ -1,0 +1,41 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Welcome to the Elmo movie recommendation chatbot. Tell the chatbot
+       your opinion on 5 movies you have watched and it will give you
+       recommendations based on your input.
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I saw "Titanic (1997)"
+
+[96mElmo> [0mElmo's a little unsure about how you feel about Titanic (1997). Can you provide Elmo with more details?
+> I thought "Dan Jurafsky and the Ten Dwarfs (2019)" was a really great movie.
+
+[96mElmo> [0mElmo is sorry, but Elmo doesn't know much about Dan Jurafsky and the Ten Dwarfs (2019). Could you share some details about another movie instead?
+> I like "Titanic (1997)" and "Scream" and "10 Things I Hate About You".
+
+[96mElmo> [0mUh oh, Elmo can only process one movie at a time. Could you please share one movie with Elmo first?
+> I like "Titanic".
+
+[96mElmo> [0mElmo is a little confused! Could you please clarify which Titanic movie you're referring to?
+> I like titanic.
+
+[96mElmo> [0mElmo's not quite sure what you mean. Could you give Elmo some more information about your taste in movies?
+> I like "titanic".
+
+[96mElmo> [0mElmo is a little confused! Could you please clarify which titanic movie you're referring to?
+> I like 10 things I hate about you.
+
+[96mElmo> [0mso Elmo can recommend some great ones?
+> Howdy.
+
+[96mElmo> [0mso Elmo can recommend some great ones?
+> ...
+
+[96mElmo> [0mUh oh, Elmo needs more information to help you. Can you tell Elmo more about the kinds of movies you enjoy?
+> I saw "Titanic (1220)"
+
+[96mElmo> [0mElmo loves learning about new movies, but Elmo doesn't know much about Titanic (1220). Can you tell Elmo about another movie?
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!

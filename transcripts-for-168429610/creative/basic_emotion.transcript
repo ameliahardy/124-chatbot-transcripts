@@ -1,0 +1,56 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+        Your task is to implement the chatbot as detailed in the PA7
+        instructions.
+        Remember: in the starter mode, movie names will come in quotation marks
+        and expressions of sentiment will be simple!
+        TODO: Write here the description for your own chatbot!
+        
+[96mSpongebob> [0mHi, how are ya? I'm Spongebob, glad to meet ya! 
+Mr Krabs gave me some time off from the Krusty Krab today. 
+I'm a bit bummed but now I can recommend you some movies. 
+I'm reaaaaaaaaaaaaaady!! Give me some movies! 
+To help me out, put the movie name and date in quotes, e.g. "Titanic (1997)".
+Let's go!
+> Hello!
+
+[96mSpongebob> [0mAhoy there matey! I'm ready!
+> I am feeling sad.
+
+[96mSpongebob> [0mBarnacles. Sorry about making you sad. Shrimp paste.
+> I am feeling angry.
+
+[96mSpongebob> [0mBarnacles. Sorry about making you angry. Shrimp paste.
+> I have been feeling down lately.
+
+[96mSpongebob> [0mWhaddya mean by that one? Is it still movie time? Baaahahahahaha
+> I'm so glad that I finished my exams.
+
+[96mSpongebob> [0mAgh! Shrimp paste, there's too many possible movies. Could you narrow it down a bit more for me here?
+> I am very angry.
+
+[96mSpongebob> [0mBarnacles. Sorry about making you angry. Shrimp paste.
+> I am now happy.
+
+[96mSpongebob> [0mAgh! Shrimp paste, there's too many possible movies. Could you narrow it down a bit more for me here?
+> I am ANGERED.
+
+[96mSpongebob> [0mWhaddya mean by that one? Is it still movie time? Baaahahahahaha
+> "Titanic (1997)" makes me afraid of ice.
+
+[96mSpongebob> [0mI see that you didn't like Titanic (1997)! Yeah, that one is about as good as Squiddy's clarinet solo.
+What about another movie? Tell me more! This is great!
+> I am VERY FRUSTRATED with this chatbot.
+
+[96mSpongebob> [0mAhoy there matey! I'm ready!
+> I'm anxious about everything.
+
+[96mSpongebob> [0mAgh! Shrimp paste, there's too many possible movies. Could you narrow it down a bit more for me here?
+> Colorless green ideas sleep FURIOUSLY.
+
+[96mSpongebob> [0mBarnacles. Sorry about making you furious. Shrimp paste.
+> I HAAAATE movies.
+
+[96mSpongebob> [0mWhaddya mean by that one? Is it still movie time? Baaahahahahaha
+> :quit
+[96mSpongebob> [0mAh, barnacles, we're done? Well, no problemo. See you next time!

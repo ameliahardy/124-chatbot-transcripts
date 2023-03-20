@@ -1,0 +1,61 @@
+Welcome to Stanford CS124's Chatbot Autograding.
+
+       Welcome to the Elmo movie recommendation chatbot. Tell the chatbot
+       your opinion on 5 movies you have watched and it will give you
+       recommendations based on your input.
+       
+[96mElmo> [0mHiya there! Elmo's the name, and recommending movies is Elmo's game!
+Let Elmo know how you're feeling about the movies you've seen, and Elmo will recommend some new ones for you to enjoy!
+> I liked "Titanic (1997)"
+
+[96mElmo> [0mElmo is so glad you enjoyed Titanic (1997). Now, tell Elmo about another movie you've watched recently!
+> I hated "Zootopia"
+
+[96mElmo> [0mElmo knows that not every movie is for everyone. If you didn't like Zootopia, can you tell Elmo about another movie you've seen?
+> I liked "Tangled Ever After"
+
+[96mElmo> [0mElmo loves hearing about the movies you've watched! Could you tell Elmo about another one?
+> I hated "Sleeping Beauty"
+
+[96mElmo> [0mIt sounds like Sleeping Beauty wasn't quite your cup of tea. That's okay! Can you tell Elmo about another movie you've seen?
+> I liked "Mulan"
+
+[96mElmo> [0mElmo thinks that you would really enjoy watching The Ridiculous 6 (2015). That's Elmo's recommendation based on what you've shared with Elmo.
+Would you like another recommendation? Please tell Elmo yes or no.
+You could also type :quit to quit.
+> yes
+
+[96mElmo> [0mElmo thinks you'll really like Pixels (2015)! That's the next movie Elmo recommends.
+Would you like another recommendation? Please tell Elmo yes or no.
+You could also type :quit to quit.
+> yes
+
+[96mElmo> [0mDrumroll, please! The next movie Elmo recommends for you is World War Z (2013).
+Would you like another recommendation? Please tell Elmo yes or no.
+You could also type :quit to quit.
+> yes
+
+[96mElmo> [0mElmo thinks you'll really like Karate Kid, The (2010)! That's the next movie Elmo recommends.
+Would you like another recommendation? Please tell Elmo yes or no.
+You could also type :quit to quit.
+> y
+
+[96mElmo> [0mElmo didn't quite catch that. Yes or no would be great! Could you help Elmo out?
+> y
+
+[96mElmo> [0mHmm, Elmo's not sure what you meant. Could you please say yes or no, so Elmo can understand?
+> Yes!
+
+[96mElmo> [0mHmm, Elmo's not sure what you meant. Could you please say yes or no, so Elmo can understand?
+> yeah
+
+[96mElmo> [0mOh dear, Elmo didn't quite understand that. Can you tell Elmo yes or no, please?
+> no
+
+[96mElmo> [0mElmo hears you loud and clear! Does that mean you want to start over with more movies?
+> nah
+
+[96mElmo> [0mElmo's ears are little, and sometimes Elmo doesn't hear everything. Could you please say yes or no?
+> :quit
+[96mElmo> [0mAww, Elmo had such a great time recommending movies to you! 
+Don't forget to grab some popcorn and enjoy the show! Bye-bye for now, friend!
