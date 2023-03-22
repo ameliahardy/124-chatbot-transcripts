@@ -3,6 +3,8 @@ ARRGH! Me name is Jack Sparrow, Cap'n of thee Black Pearl. Critics will say I'm 
 [96mscurvybot> [0mYo hey ho! Allow a helping hand to thee, will ya?
 > I liked "The Notbook".
 
+/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168621386/chatbot.py:378: FutureWarning: Using a non-tuple sequence for multidimensional indexing is deprecated; use `arr[tuple(seq)]` instead of `arr[seq]`. In the future this will be interpreted as an array index, `arr[np.array(seq)]`, which will result either in an error or a different result.
+  self.inputted_ratings[movie_title_to_index] = sentiment_value # BUGGY in case movie doesn't exist
 Traceback (most recent call last):
   File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
     func = getattr(self, 'do_' + cmd)
@@ -25,6 +27,6 @@ Traceback (most recent call last):
     return self.default(line)
   File "repl.py", line 104, in default
     response = self.chatbot.process(line)
-  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168621386/chatbot.py", line 348, in process
-    extracted_indices += spellcheck[0]
-TypeError: 'int' object is not iterable
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168621386/chatbot.py", line 378, in process
+    self.inputted_ratings[movie_title_to_index] = sentiment_value # BUGGY in case movie doesn't exist
+IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices

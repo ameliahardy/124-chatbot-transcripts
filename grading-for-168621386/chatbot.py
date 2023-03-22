@@ -175,14 +175,83 @@ class Chatbot:
         
         sentiment_value = self.extract_sentiment(line)
         extracted_title = self.extract_titles(line)
-        movie_title_to_index = self.find_movies_by_title(extracted_title[0])
-        
-        response = ""
         # need disambiguate since multiple titles can be returned
         # Using five _'s to signify the movie title, which we will use a
         # str.find() and replace function to put the title in with later
         lowercase_line = line.lower()
         text_tokens = lowercase_line.split()
+
+        # TODO this should be moved up 
+        if len(extracted_title) == 0:
+            # In this case, it could be that there's no quotation marks, like "I liked Titanic"
+            # So what we do is look for a sentiment word like "liked" and then capture the input after that word as our query
+            sentiment_words_list = ["like", "liked", "enjoy", "enjoyed", "love", "loved"]
+            for word in sentiment_words_list:
+            # if any(word in text_tokens for word in sentiment_words_list):
+                if word in text_tokens:
+                    # find that word "liked" or "loved"
+                    sentiment_word_location = lowercase_line.find(word)
+                    # then advance to where the word ends + 1 space to find the movie title we're looking for
+                    where_title_starts = sentiment_word_location+len(word)+1
+                    found_movie_title = lowercase_line[where_title_starts:]
+                    extracted_title = [found_movie_title]
+                    break
+            # else:
+                # return "Good heavens, mea culpa! In the wrongest of all, alas I could not find thy film! Enlighten me with another, a favor?" if self.creative else "Sorry, I couldn't find that movie in my database. Could you please try again?"
+
+        response = ""
+
+        # Case where we get a random string that isn't a movie title
+        if sentiment_value == 0:
+            if self.creative:
+                return random.choice([
+                    "Yargh! Me no compehend ya, give me what ya think of a film next time, er?",
+                    "Seen a lot in my sea days, but ya got me stumped with yer words, wise one! Allow me another chance!",
+                    "Nonsense you speak! I don't understand ya, need a movie I say!"
+                ])
+            else:
+                return random.choice([
+                    "Sorry, I don't seem to understand what that means.",
+                    "I can't seem to understand what you're saying, could you please try again?",
+                    "I apologize, but I don't seem to recognize what you meant by that. Please try again!"
+                ])
+            
+
+        if self.creative:
+            pirate_good = ["Hear thy! Me hear ye fancy with _____, ye? What others shiver ya?",
+                           "Yo ho! Me feel the same, _____ be finest of the sea! Allow me to hear more...",
+                           "Finest creator! _____ are of the best me sees! More ye say?",
+                           "Ahhhhh _____, great choice thy picks... Hear me some more?",
+                           "Poppin popcorn! _____ on a flame, great film! Continue for me mate!",
+                           "Alas! _____, yer a good one I say! Count me more..."]
+            pirate_bad = ["Davey Jones! What a bad film _____ was! Hear me more...",
+                          "Argh! Said film _____ should be off the deck! Bless me more please!"
+                          "Blimey! _____ almost gave me scurvy! Finish thy thought please...",
+                          "Shiver me timbers! Never a pirate seen _____, never will! Me hearty, finish more!",
+                          "Curse _____, no good I say! Allow me to ask again?"]
+            
+            if sentiment_value > 0: # good
+                response = random.choice(pirate_good)
+            elif sentiment_value < 0: # bad
+                response = random.choice(pirate_bad)
+
+        else:
+            good_responses = ["I'm hearing that you liked _____, right? What are some other movies you liked?",
+                              "You thought _____ was a good movie? Awesome! Let's hear a few more!",
+                              "Okay, so you liked the movie _____? Can I hear more movies you liked?",
+                              "Great deal, sounds like you liked _____! How about another movie you liked?",
+                              "Interesting movie, heard great things about _____, so I'm glad to hear you enjoyed it! Any other movies?"]
+            bad_responses = ["If I understand correctly, you didn't like _____. Tell me more!",
+                             "Seems like _____ wasn't a good movie! Let me hear about other movies, please!",
+                             "Sorry to hear you didn't enjoy _____! If you give me some more info, I can surely give you a movie you will like!",
+                             "_____ was not to your expectations, got it. What else?",
+                             "Thanks for the letting me know you thought _____ wasn't good, what are some other thought you have?"]
+            if sentiment_value > 0: # good
+                response = random.choice(good_responses)
+            elif sentiment_value < 0: # bad
+                response = random.choice(bad_responses)
+
+        movie_title_to_index = self.find_movies_by_title(extracted_title[0])
 
 
         # Joke functionality
@@ -266,76 +335,6 @@ class Chatbot:
                     "Sorry to hear you're a bit scared now, is there any way that I could change that with a movie?",
                     "Feeling scared is completely understandable—— the future can be uncertain, but remember that you've survived everything else!"
                 ])
-
-
-                # TODO this should be moved up 
-        if len(extracted_title) == 0:
-            # In this case, it could be that there's no quotation marks, like "I liked Titanic"
-            # So what we do is look for a sentiment word like "liked" and then capture the input after that word as our query
-            sentiment_words_list = ["like", "liked", "enjoy", "enjoyed", "love", "loved"]
-            for word in sentiment_words_list:
-            # if any(word in text_tokens for word in sentiment_words_list):
-                if word in text_tokens:
-                    # find that word "liked" or "loved"
-                    sentiment_word_location = lowercase_line.find(word)
-                    # then advance to where the word ends + 1 space to find the movie title we're looking for
-                    where_title_starts = sentiment_word_location+len(word)+1
-                    found_movie_title = lowercase_line[where_title_starts:]
-                    extracted_title = [found_movie_title]
-                    break
-            # else:
-                # return "Good heavens, mea culpa! In the wrongest of all, alas I could not find thy film! Enlighten me with another, a favor?" if self.creative else "Sorry, I couldn't find that movie in my database. Could you please try again?"
-
-
-        # Case where we get a random string that isn't a movie title
-        if sentiment_value == 0:
-            if self.creative:
-                return random.choice([
-                    "Yargh! Me no compehend ya, give me what ya think of a film next time, er?",
-                    "Seen a lot in my sea days, but ya got me stumped with yer words, wise one! Allow me another chance!",
-                    "Nonsense you speak! I don't understand ya, need a movie I say!"
-                ])
-            else:
-                return random.choice([
-                    "Sorry, I don't seem to understand what that means.",
-                    "I can't seem to understand what you're saying, could you please try again?",
-                    "I apologize, but I don't seem to recognize what you meant by that. Please try again!"
-                ])
-            
-
-        if self.creative:
-            pirate_good = ["Hear thy! Me hear ye fancy with _____, ye? What others shiver ya?",
-                           "Yo ho! Me feel the same, _____ be finest of the sea! Allow me to hear more...",
-                           "Finest creator! _____ are of the best me sees! More ye say?",
-                           "Ahhhhh _____, great choice thy picks... Hear me some more?",
-                           "Poppin popcorn! _____ on a flame, great film! Continue for me mate!",
-                           "Alas! _____, yer a good one I say! Count me more..."]
-            pirate_bad = ["Davey Jones! What a bad film _____ was! Hear me more...",
-                          "Argh! Said film _____ should be off the deck! Bless me more please!"
-                          "Blimey! _____ almost gave me scurvy! Finish thy thought please...",
-                          "Shiver me timbers! Never a pirate seen _____, never will! Me hearty, finish more!",
-                          "Curse _____, no good I say! Allow me to ask again?"]
-            
-            if sentiment_value > 0: # good
-                response = random.choice(pirate_good)
-            elif sentiment_value < 0: # bad
-                response = random.choice(pirate_bad)
-
-        else:
-            good_responses = ["I'm hearing that you liked _____, right? What are some other movies you liked?",
-                              "You thought _____ was a good movie? Awesome! Let's hear a few more!",
-                              "Okay, so you liked the movie _____? Can I hear more movies you liked?",
-                              "Great deal, sounds like you liked _____! How about another movie you liked?",
-                              "Interesting movie, heard great things about _____, so I'm glad to hear you enjoyed it! Any other movies?"]
-            bad_responses = ["If I understand correctly, you didn't like _____. Tell me more!",
-                             "Seems like _____ wasn't a good movie! Let me hear about other movies, please!",
-                             "Sorry to hear you didn't enjoy _____! If you give me some more info, I can surely give you a movie you will like!",
-                             "_____ was not to your expectations, got it. What else?",
-                             "Thanks for the letting me know you thought _____ wasn't good, what are some other thought you have?"]
-            if sentiment_value > 0: # good
-                response = random.choice(good_responses)
-            elif sentiment_value < 0: # bad
-                response = random.choice(bad_responses)
         
 
         if len(extracted_title) == 2:
@@ -493,6 +492,8 @@ class Chatbot:
                         break
             elif self.creative and re.search(regex, name_movies):
                 matching_indices.append(i)
+        if len(matching_indices) == 0:
+            return [""]
         return list(set(matching_indices))
 
     def extract_sentiment(self, preprocessed_input):
