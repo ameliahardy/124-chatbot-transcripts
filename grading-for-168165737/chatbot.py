@@ -150,15 +150,16 @@ class Chatbot:
 
         movie = modified_extract_titles(line)
 
-        # update what movies user likes/dislikes
-        self.movies_to_recommend.append(movie)
-
         # Dealing with arbitrary responses / failing gracefully when there is no movie detected.
-        if len(movie) == 0 and len(self.movies_to_recommend) <= 5:
+        if len(movie) == 0: # and len(self.movies_to_recommend) <= 5:
             confused_response = ["I don't get it XMXM?", "Interesting. Please tell me more.",
                                  "Only you are so unique to have been so brave with what you said."]
             response = random.choice(confused_response)
             return response
+
+        if len(movie) > 0:
+            # update what movies user likes/dislikes
+            self.movies_to_recommend.append(movie)
 
         # update user rating
         sent = self.extract_sentiment(self.preprocess(line))

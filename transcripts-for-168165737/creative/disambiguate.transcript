@@ -11,7 +11,7 @@ Welcome to Stanford CS124's Chatbot Autograding.
           - If the chatbot finds movies with similar titles, it asks to clarify
           - Returns the movie and sentiment to the user in a naturalistic, human sounding manner
         
-[96mmoviebot> [0mHello, earthling. 
+[96mmoviebot> [0mWassup! 
 > I liked "Harry Potter".
 
 [96mmoviebot> [0mI processed I liked "Harry Potter". in creative mode!!

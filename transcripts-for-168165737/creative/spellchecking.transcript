@@ -11,13 +11,13 @@ Welcome to Stanford CS124's Chatbot Autograding.
           - If the chatbot finds movies with similar titles, it asks to clarify
           - Returns the movie and sentiment to the user in a naturalistic, human sounding manner
         
-[96mmoviebot> [0mHello, earthling. 
+[96mmoviebot> [0mHeyyyyyyyy girly-cat! 
 > I liked "The Notbook".
 
 [96mmoviebot> [0mOk, seems like we haven't heard of The Notbook. Can you give me another title?
 > Yes.
 
-[96mmoviebot> [0mI don't get it XMXM?
+[96mmoviebot> [0mOnly you are so unique to have been so brave with what you said.
 > I did not like "Screm"
 
 [96mmoviebot> [0mOk, seems like we haven't heard of Screm. Can you give me another title?
@@ -25,4 +25,4 @@ Welcome to Stanford CS124's Chatbot Autograding.
 
 [96mmoviebot> [0mOnly you are so unique to have been so brave with what you said.
 > :quit
-[96mmoviebot> [0mSee you slay-ter! 
+[96mmoviebot> [0mGoodbye, coding wizard. 
