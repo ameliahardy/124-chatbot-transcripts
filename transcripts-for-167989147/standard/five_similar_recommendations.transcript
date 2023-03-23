@@ -23,28 +23,30 @@ This chatbot will recommend you movies based on your preferences!
 [96mMovie_Recommender> [0mI found more than one movie called M. Can you clarify which one you like?
 > yes
 
-Traceback (most recent call last):
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
-    func = getattr(self, 'do_' + cmd)
-AttributeError: 'REPL' object has no attribute 'do_yes'
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> yes
 
-During handling of the above exception, another exception occurred:
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> yes
 
-Traceback (most recent call last):
-  File "repl.py", line 189, in <module>
-    repl.cmdloop()
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
-    return function(*args, **kwargs)
-  File "repl.py", line 77, in cmdloop
-    return super().cmdloop(intro)
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
-    stop = self.onecmd(line)
-  File "repl.py", line 90, in onecmd
-    return super().onecmd(s)
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
-    return self.default(line)
-  File "repl.py", line 104, in default
-    response = self.chatbot.process(line)
-  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989147/chatbot.py", line 166, in process
-    movie_id = self.find_movies_by_title(extracting_title[0]) #list of ids of matching movies 
-IndexError: list index out of range
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> y
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> y
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> Yes!
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> yeah
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> no
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> nah
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> :quit
+[96mMovie_Recommender> [0mI hope you have a nice day!

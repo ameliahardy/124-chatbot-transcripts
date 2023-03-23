@@ -163,7 +163,11 @@ class Chatbot:
             extracting_title = self.extract_titles(line)
             user_ratings = np.zeros(len(self.indexmappingtotitle))
 
-            movie_id = self.find_movies_by_title(extracting_title[0]) #list of ids of matching movies 
+            if len(extracting_title) == 0:
+                movie_id = []
+            else:
+                movie_id = self.find_movies_by_title(extracting_title[0])
+
             if len(movie_id) == 0:
                 response = "I've never heard of {}, really sorry! Can you tell me about another movie you liked?".format(extracting_title)
             else: 
@@ -270,7 +274,7 @@ class Chatbot:
 
 
         else:
-            listofwords = proprocessed_input.lower().strip(".,?!").split()
+            listofwords = preprocessed_input.lower().strip(".,?!").split()
 
             
             listofmatches = []

@@ -3,30 +3,34 @@ This chatbot will recommend you movies based on your preferences!
 [96mMovie_Recommender> [0mHello! What can I do for you?
 > Hello!
 
-Traceback (most recent call last):
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 214, in onecmd
-    func = getattr(self, 'do_' + cmd)
-AttributeError: 'REPL' object has no attribute 'do_Hello'
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> I am a robot too.
 
-During handling of the above exception, another exception occurred:
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> What is your name?
 
-Traceback (most recent call last):
-  File "repl.py", line 189, in <module>
-    repl.cmdloop()
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/site-packages/timeout_decorator/timeout_decorator.py", line 82, in new_function
-    return function(*args, **kwargs)
-  File "repl.py", line 77, in cmdloop
-    return super().cmdloop(intro)
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 138, in cmdloop
-    stop = self.onecmd(line)
-  File "repl.py", line 90, in onecmd
-    return super().onecmd(s)
-  File "/usr/local/anaconda3/envs/cs124/lib/python3.8/cmd.py", line 216, in onecmd
-    return self.default(line)
-  File "repl.py", line 104, in default
-    response = self.chatbot.process(line)
-  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989147/chatbot.py", line 163, in process
-    extracting_title = self.extract_titles(line)
-  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-167989147/chatbot.py", line 273, in extract_titles
-    listofwords = proprocessed_input.lower().strip(".,?!").split()
-NameError: name 'proprocessed_input' is not defined
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> Do you know anything about books?
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> I loved Dan Jurafsky's latest lecture.
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> Can you speak French?
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> How are you feeling?
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> What's up?
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> Do you know the muffin man?
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> I liked it.
+
+[96mMovie_Recommender> [0mI've never heard of [], really sorry! Can you tell me about another movie you liked?
+> :quit
+
+[96mMovie_Recommender> [0mI hope you have a nice day!
