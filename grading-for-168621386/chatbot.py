@@ -375,8 +375,11 @@ class Chatbot:
             else:
                 return("I think I got it! Based on what you told me, you should watch " + self.titles[recommending_list[0]][0] + " for your movie!")
         else: 
-            self.inputted_ratings[movie_title_to_index] = sentiment_value # BUGGY in case movie doesn't exist
-            return response
+            if movie_title_to_index == -1:
+                return ""
+            else:
+                self.inputted_ratings[movie_title_to_index] = sentiment_value # BUGGY in case movie doesn't exist
+                return response
             
         ########################################################################
         #                          END OF YOUR CODE                            #
@@ -493,7 +496,7 @@ class Chatbot:
             elif self.creative and re.search(regex, name_movies):
                 matching_indices.append(i)
         if len(matching_indices) == 0:
-            return [""]
+            return [-1]
         return list(set(matching_indices))
 
     def extract_sentiment(self, preprocessed_input):
