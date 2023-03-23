@@ -376,7 +376,7 @@ class Chatbot:
                 return random.choice(self.no_quotes_response[self.cid]) + random.choice(self.another_movie_response[self.cid])
             # Case: User input multiple movie titles.
             if num_input > 1:
-                return random.choice(self.one_movie_response[self.cid]) + random.choice(self.another_movie_respons[self.cid])
+                return random.choice(self.one_movie_response[self.cid]) + random.choice(self.another_movie_response[self.cid])
 
             input_title = input_titles[0]
             matched_titles = self.find_movies_by_title(input_title)
