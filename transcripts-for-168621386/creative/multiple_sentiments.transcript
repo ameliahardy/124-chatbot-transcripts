@@ -25,6 +25,6 @@ Traceback (most recent call last):
     return self.default(line)
   File "repl.py", line 104, in default
     response = self.chatbot.process(line)
-  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168621386/chatbot.py", line 344, in process
+  File "/Users/ameliahardy/Documents/classes/cs124/root/assignments/pa7-chatbot/manual_grading/all_transcript_results/grading-for-168621386/chatbot.py", line 347, in process
     if len(extracted_indices) == 0:
 UnboundLocalError: local variable 'extracted_indices' referenced before assignment

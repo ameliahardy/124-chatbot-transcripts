@@ -193,8 +193,8 @@ class Chatbot:
         echo_sentiment_n = ["did not like",
             "did not enjoy", "disappointed with", 'would not again watch', 'did not vibe with']
         if (latest_sentiment > 0):
-            i = random.randint(0, len(echo_sentiment_p)-1)
-            echo_phrase = echo_sentiment_p[i]
+            j = random.randint(0, len(echo_sentiment_p)-1)
+            # echo_phrase = echo_sentiment_p[i]
             if(self.creative):
                 response = "Ya " + echo_sentiment_n[j] + " \" " + latest_movie_name[0] + \
                 " \". What else is heat sista?"

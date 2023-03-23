@@ -1,42 +1,42 @@
 Welcome to Stanford CS124's Chatbot Autograding.
 Hey there! I'm ChatBot, and I'll be helping you recommend some movies to watch. If you could help me out and give me a few details about movies you liked and did not like, I can tune my recommendations for something I think you might enjoy. Let's start:
-[96mscurvybot> [0mWhat's shaking? Let's hear some of your movie thoughts...
+[96mscurvybot> [0mHey! How can I be of assistance?
 > I liked "Titanic (1997)"
 
-[96mscurvybot> [0mGreat deal, sounds like you liked Titanic (1997)! How about another movie you liked?
+[96mscurvybot> [0mInteresting movie, heard great things about Titanic (1997), so I'm glad to hear you enjoyed it! Any other movies?
 > I hated "Zootopia"
 
-[96mscurvybot> [0mI apologize, but I don't seem to recognize what you meant by that. Please try again!
+[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
 > I liked "Tangled Ever After"
 
-[96mscurvybot> [0mI'm hearing that you liked Tangled Ever After, right? What are some other movies you liked?
+[96mscurvybot> [0mInteresting movie, heard great things about Tangled Ever After, so I'm glad to hear you enjoyed it! Any other movies?
 > I hated "Sleeping Beauty"
 
 [96mscurvybot> [0mSorry, I don't seem to understand what that means.
 > I liked "Mulan"
 
-[96mscurvybot> [0mYou thought Mulan was a good movie? Awesome! Let's hear a few more!
+[96mscurvybot> [0mI'm hearing that you liked Mulan, right? What are some other movies you liked?
 > yes
-
-[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
-> yes
-
-[96mscurvybot> [0mI apologize, but I don't seem to recognize what you meant by that. Please try again!
-> yes
-
-[96mscurvybot> [0mI apologize, but I don't seem to recognize what you meant by that. Please try again!
-> y
-
-[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
-> y
 
 [96mscurvybot> [0mSorry, I don't seem to understand what that means.
+> yes
+
+[96mscurvybot> [0mSorry, I don't seem to understand what that means.
+> yes
+
+[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
+> y
+
+[96mscurvybot> [0mI apologize, but I don't seem to recognize what you meant by that. Please try again!
+> y
+
+[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
 > Yes!
 
-[96mscurvybot> [0mSorry, I don't seem to understand what that means.
+[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
 > yeah
 
-[96mscurvybot> [0mSorry, I don't seem to understand what that means.
+[96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
 > no
 
 [96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
@@ -44,4 +44,4 @@ Hey there! I'm ChatBot, and I'll be helping you recommend some movies to watch. 
 
 [96mscurvybot> [0mI can't seem to understand what you're saying, could you please try again?
 > :quit
-[96mscurvybot> [0mHasta luego amigo!
+[96mscurvybot> [0mUntil next time, take care!

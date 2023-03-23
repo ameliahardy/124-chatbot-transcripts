@@ -250,8 +250,10 @@ class Chatbot:
                 response = random.choice(good_responses)
             elif sentiment_value < 0: # bad
                 response = random.choice(bad_responses)
-
-        movie_title_to_index = self.find_movies_by_title(extracted_title[0])
+        if len(extracted_title) >= 1:
+            movie_title_to_index = self.find_movies_by_title(extracted_title[0])
+        else:
+            movie_title_to_index = -1
 
 
         # Joke functionality
@@ -336,7 +338,8 @@ class Chatbot:
                     "Feeling scared is completely understandable—— the future can be uncertain, but remember that you've survived everything else!"
                 ])
         
-
+        if len(extracted_title) == 0:
+            return ""
         if len(extracted_title) == 2:
             tuples = self.extract_sentiment_for_movies(line)
         else: 
